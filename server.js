@@ -53,8 +53,26 @@ app.get('/api/toy/:toyId', (req, res) => {
     toyService.getById(toyId)
         .then(toy => res.send(toy))
         .catch(err => {
-            loggerService.error('Cannot get toy', toyId)
+            loggerService.error('Cannot get toy', err)
             res.status(400).send('Cannot get toy')
+        })
+})
+
+//* Update Toy
+app.put('/api/toy/:toyId', (req, res) => {
+    const toy = {
+        _id: req.params.toyId,
+        name: req.body.name,
+        price: +req.body.price,
+        labels: req.body.labels,
+        inStock: req.body.inStock
+    }
+
+    toyService.save(toy)
+        .then(savedToy => res.send(savedToy))
+        .catch(err => {
+            loggerService.error('Cannot save toy', err)
+            res.status(400).send('Cannot save toy.')
         })
 })
 
