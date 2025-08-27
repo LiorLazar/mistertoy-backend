@@ -1,0 +1,30 @@
+{
+  "name": "mistertoy-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nomdemon --ignore \"./data\" server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiorLazar/mistertoy-backend.git"
+  },
+  "keywords": [],
+  "author": "Lior Lazar",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/LiorLazar/mistertoy-backend/issues"
+  },
+  "homepage": "https://github.com/LiorLazar/mistertoy-backend#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "cryptr": "^6.3.0",
+    "express": "^5.1.0",
+    "follow-redirects": "^1.15.11"
+  }
+}
