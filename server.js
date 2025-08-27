@@ -26,6 +26,7 @@ app.use(express.json())
 app.set('query parser', 'extended')
 
 //* REST API for Toys
+//* Get Toys
 app.get('/api/toy', (req, res) => {
     const filterBy = {
         txt: req.query.txt || '',
@@ -42,6 +43,18 @@ app.get('/api/toy', (req, res) => {
         .catch(err => {
             loggerService.error('Cannot get toys', err)
             res.status(400).send('Cannot get toys')
+        })
+})
+
+//* Get Toy By Id
+app.get('/api/toy/:toyId', (req, res) => {
+    const { toyId } = req.params
+
+    toyService.getById(toyId)
+        .then(toy => res.send(toy))
+        .catch(err => {
+            loggerService.error('Cannot get toy', toyId)
+            res.status(400).send('Cannot get toy')
         })
 })
 

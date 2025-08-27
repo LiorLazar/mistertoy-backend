@@ -2,6 +2,9 @@ import { utilService } from './util.service.js'
 
 export const toyService = {
     query,
+    getById,
+    // save,
+    // remove,
     getDefaultFilter,
     getDefaultSort
 }
@@ -34,6 +37,11 @@ function query(filterBy = {}, sortBy = {}) {
         })
     }
     return Promise.resolve(toysToReturn)
+}
+
+function getById(toyId) {
+    const toy = toys.find(toy => toy._id === toyId)
+    return Promise.resolve(toy)
 }
 
 function getDefaultFilter() {
