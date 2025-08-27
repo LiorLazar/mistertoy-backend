@@ -199,5 +199,16 @@
     "_id": "t117",
     "createdAt": 1631047801011,
     "inStock": true
+  },
+  {
+    "name": "Hanayama Puzzle test 1",
+    "price": 70,
+    "labels": [
+      "Puzzle",
+      "Box game"
+    ],
+    "inStock": false,
+    "createdAt": 1756328533879,
+    "_id": "0nJMs"
   }
 ]

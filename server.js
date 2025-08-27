@@ -58,6 +58,25 @@ app.get('/api/toy/:toyId', (req, res) => {
         })
 })
 
+//* Add Toy
+app.post('/api/toy', (req, res) => {
+    const toy = {
+        name: req.body.name,
+        price: +req.body.price,
+        labels: req.body.labels,
+        inStock: req.body.inStock,
+        createdAt: Date.now()
+
+    }
+
+    toyService.save(toy)
+        .then(savedToy => res.send(savedToy))
+        .catch(err => {
+            loggerService.error('Cannot save toy', err)
+            res.status(400).send('Cannot save toy.')
+        })
+})
+
 //* Update Toy
 app.put('/api/toy/:toyId', (req, res) => {
     const toy = {
@@ -65,7 +84,7 @@ app.put('/api/toy/:toyId', (req, res) => {
         name: req.body.name,
         price: +req.body.price,
         labels: req.body.labels,
-        inStock: req.body.inStock
+        inStock: req.body.inStock,
     }
 
     toyService.save(toy)
