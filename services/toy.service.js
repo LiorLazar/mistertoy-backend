@@ -5,7 +5,7 @@ export const toyService = {
     query,
     getById,
     save,
-    // remove,
+    remove,
     getDefaultFilter,
     getDefaultSort
 }
@@ -59,6 +59,15 @@ function save(toy) {
         toys.push(toy)
     }
     return _saveToysToFile().then(() => toy)
+}
+
+function remove(toyId) {
+    const idx = toys.findIndex(toy => toy._id === toyId)
+    if (idx === -1) return Promise.reject('No Such Toy')
+
+    const toy = toys[idx]
+    toys.splice(idx, 1)
+    return _saveToysToFile()
 }
 
 function getDefaultFilter() {
