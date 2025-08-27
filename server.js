@@ -95,6 +95,17 @@ app.put('/api/toy/:toyId', (req, res) => {
         })
 })
 
+//* Delete Toy
+app.delete('/api/toy/:toyId', (req, res) => {
+    const { toyId } = req.params
+    toyService.remove(toyId)
+        .then(() => res.send('Removed'))
+        .catch(err => {
+            loggerService.error('Cannot remove toy', err)
+            res.status(400).send('Cannot remove toy.')
+        })
+})
+
 const PORT = process.env.PORT || 3030
 app.listen(PORT, () =>
     loggerService.info(`Server listening on port http://127.0.0.1:${PORT}/`)
