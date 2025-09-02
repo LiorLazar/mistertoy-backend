@@ -1,7 +1,7 @@
 [
   {
     "name": "Hanayama Puzzle",
-    "price": 75,
+    "price": 175,
     "labels": [
       "Puzzle",
       "Box game"
@@ -199,5 +199,14 @@
     "_id": "t117",
     "createdAt": 1631047801011,
     "inStock": true
+  },
+  {
+    "name": "test",
+    "price": 100,
+    "labels": [
+      "On wheels",
+      "Box game"
+    ],
+    "_id": "PgZhg"
   }
 ]

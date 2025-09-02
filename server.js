@@ -64,9 +64,6 @@ app.post('/api/toy', (req, res) => {
         name: req.body.name,
         price: +req.body.price,
         labels: req.body.labels,
-        inStock: req.body.inStock,
-        createdAt: Date.now()
-
     }
 
     toyService.save(toy)
