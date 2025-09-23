@@ -208,5 +208,14 @@
       "Box game"
     ],
     "_id": "PgZhg"
+  },
+  {
+    "name": "Hanayama Puzzle",
+    "price": 175,
+    "labels": [
+      "Puzzle",
+      "Box game"
+    ],
+    "_id": "rdwrF"
   }
 ]

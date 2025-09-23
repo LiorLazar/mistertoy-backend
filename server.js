@@ -1,106 +1,45 @@
-// import path from 'path'
 import express from 'express'
 import cookieParser from 'cookie-parser'
 import cors from 'cors'
+import path, { dirname } from 'path'
+import { fileURLToPath } from 'url'
+
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = dirname(__filename)
 
 import { loggerService } from './services/logger.service.js'
-import { toyService } from './services/toy.service.js'
+loggerService.info('server.js loaded...')
 
 const app = express()
 
-const corsOptions = {
-    origin: [
-        'http://127.0.0.1:8080',
-        'http://localhost:8080',
-        'http://127.0.0.1:5173',
-        'http://localhost:5173'
-    ],
-    credentials: true
-}
-
-// Express Config
-app.use(express.static('public'))
-app.use(cors(corsOptions))
+//Express App Config
 app.use(cookieParser())
 app.use(express.json())
-app.set('query parser', 'extended')
+app.use(express.static('public'))
 
-//* REST API for Toys
-//* Get Toys
-app.get('/api/toy', (req, res) => {
-    const filterBy = {
-        txt: req.query.txt || '',
-        isStock: req.query.isStock || '',
-        labels: req.query.labels || [],
+if (process.env.NODE_ENV === 'production') {
+    app.use(express.static(path.resolve(__dirname, 'public')))
+    console.log('__dirname: ', __dirname)
+} else {
+    const corsOptions = {
+        origin: [
+            'http://127.0.0.1:8080',
+            'http://localhost:8080',
+            'http://127.0.0.1:5173',
+            'http://localhost:5173'
+        ],
+        credentials: true
     }
+    app.use(cors(corsOptions))
+}
 
-    const sortBy = {
-        sortBy: req.query.sortBy || toyService.getDefaultSort()
-    }
+import { toyRoutes } from './api/toy/toy.routes.js'
 
-    toyService.query(filterBy, sortBy)
-        .then(toys => res.send(toys))
-        .catch(err => {
-            loggerService.error('Cannot get toys', err)
-            res.status(400).send('Cannot get toys')
-        })
-})
+// Routes
+app.use('/api/toy', toyRoutes)
 
-//* Get Toy By Id
-app.get('/api/toy/:toyId', (req, res) => {
-    const { toyId } = req.params
-
-    toyService.getById(toyId)
-        .then(toy => res.send(toy))
-        .catch(err => {
-            loggerService.error('Cannot get toy', err)
-            res.status(400).send('Cannot get toy')
-        })
-})
-
-//* Add Toy
-app.post('/api/toy', (req, res) => {
-    const toy = {
-        name: req.body.name,
-        price: +req.body.price,
-        labels: req.body.labels,
-    }
-
-    toyService.save(toy)
-        .then(savedToy => res.send(savedToy))
-        .catch(err => {
-            loggerService.error('Cannot save toy', err)
-            res.status(400).send('Cannot save toy.')
-        })
-})
-
-//* Update Toy
-app.put('/api/toy/:toyId', (req, res) => {
-    const toy = {
-        _id: req.params.toyId,
-        name: req.body.name,
-        price: +req.body.price,
-        labels: req.body.labels,
-        inStock: req.body.inStock,
-    }
-
-    toyService.save(toy)
-        .then(savedToy => res.send(savedToy))
-        .catch(err => {
-            loggerService.error('Cannot save toy', err)
-            res.status(400).send('Cannot save toy.')
-        })
-})
-
-//* Delete Toy
-app.delete('/api/toy/:toyId', (req, res) => {
-    const { toyId } = req.params
-    toyService.remove(toyId)
-        .then(() => res.send('Removed'))
-        .catch(err => {
-            loggerService.error('Cannot remove toy', err)
-            res.status(400).send('Cannot remove toy.')
-        })
+app.get('/*all', (req, res) => {
+    res.sendFile(path.resolve('public/index.html'))
 })
 
 const PORT = process.env.PORT || 3030
