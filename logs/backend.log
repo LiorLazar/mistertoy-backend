@@ -182,3 +182,77 @@
 24.9.2025, 0:14:12 - INFO - Req was made | /
 24.9.2025, 0:14:17 - INFO - Req was made | /
 24.9.2025, 0:14:17 - INFO - Req was made | /
+24.9.2025, 0:14:56 - INFO - server.js loaded...
+24.9.2025, 0:14:56 - INFO - Server listening on port http://127.0.0.1:3030/
+24.9.2025, 0:14:56 - INFO - server.js loaded...
+24.9.2025, 0:14:56 - INFO - Server listening on port http://127.0.0.1:3030/
+24.9.2025, 0:26:28 - INFO - Req was made | /
+24.9.2025, 0:26:28 - INFO - Req was made | /
+24.9.2025, 0:26:31 - INFO - Req was made | /
+24.9.2025, 0:26:57 - INFO - Req was made | /
+24.9.2025, 0:27:23 - DEBUG - auth.service - login with username: admin
+24.9.2025, 0:27:23 - DEBUG - auth.service - login with username: admin
+24.9.2025, 0:27:23 - DEBUG - auth.service - login with username: admin
+24.9.2025, 0:27:23 - INFO - User login:  | {"_id":"6693c0ac62157821fbb7cb3e","username":"admin","fullname":"Mister-Toy","isAdmin":true}
+24.9.2025, 0:27:23 - INFO - User login:  | {"_id":"6693c0ac62157821fbb7cb3e","username":"admin","fullname":"Mister-Toy","isAdmin":true}
+24.9.2025, 0:27:23 - INFO - User login:  | {"_id":"6693c0ac62157821fbb7cb3e","username":"admin","fullname":"Mister-Toy","isAdmin":true}
+24.9.2025, 0:29:24 - INFO - Req was made | /
+24.9.2025, 0:29:33 - INFO - Req was made | /
+24.9.2025, 0:29:38 - INFO - Req was made | /
+24.9.2025, 0:29:41 - INFO - Req was made | /
+24.9.2025, 0:29:49 - INFO - Req was made | /
+24.9.2025, 0:30:16 - INFO - Req was made | /
+24.9.2025, 0:30:16 - INFO - Req was made | /
+24.9.2025, 0:30:19 - INFO - Req was made | /
+24.9.2025, 0:30:21 - INFO - Req was made | /
+24.9.2025, 0:30:22 - INFO - Req was made | /
+24.9.2025, 0:31:26 - INFO - Req was made | /
+24.9.2025, 0:31:26 - INFO - Req was made | /
+24.9.2025, 0:31:34 - INFO - Req was made | /
+24.9.2025, 0:31:38 - INFO - Req was made | /
+24.9.2025, 0:32:04 - INFO - Req was made | /
+24.9.2025, 0:32:11 - INFO - Req was made | /
+24.9.2025, 0:32:30 - INFO - Req was made | /
+24.9.2025, 0:33:13 - INFO - Req was made | /
+24.9.2025, 0:33:13 - INFO - Req was made | /
+24.9.2025, 0:33:46 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
+24.9.2025, 0:33:46 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+24.9.2025, 0:33:46 - INFO - Req was made | /
+24.9.2025, 0:33:46 - INFO - Req was made | /
+24.9.2025, 0:33:47 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
+24.9.2025, 0:33:47 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+24.9.2025, 0:33:47 - INFO - Req was made | /
+24.9.2025, 0:33:47 - INFO - Req was made | /
+24.9.2025, 0:33:48 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
+24.9.2025, 0:33:48 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+24.9.2025, 0:33:48 - INFO - Req was made | /
+24.9.2025, 0:33:48 - INFO - Req was made | /
+24.9.2025, 0:33:55 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
+24.9.2025, 0:33:55 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+24.9.2025, 0:33:55 - INFO - Req was made | /
+24.9.2025, 0:33:55 - INFO - Req was made | /
+24.9.2025, 0:34:24 - INFO - Req was made | /
+24.9.2025, 0:34:30 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
+24.9.2025, 0:34:30 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+24.9.2025, 0:34:37 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+24.9.2025, 0:34:37 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
+24.9.2025, 0:34:52 - INFO - Req was made | /
+24.9.2025, 0:35:26 - INFO - server.js loaded...
+24.9.2025, 0:35:26 - INFO - Server listening on port http://127.0.0.1:3030/
+24.9.2025, 0:35:40 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
+24.9.2025, 0:35:40 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+24.9.2025, 0:35:47 - INFO - Req was made | /
+24.9.2025, 0:36:00 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
+24.9.2025, 0:36:00 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+24.9.2025, 0:36:43 - INFO - server.js loaded...
+24.9.2025, 0:36:43 - INFO - Server listening on port http://127.0.0.1:3030/
+24.9.2025, 0:36:52 - INFO - server.js loaded...
+24.9.2025, 0:36:52 - INFO - Server listening on port http://127.0.0.1:3030/
+24.9.2025, 0:37:02 - INFO - server.js loaded...
+24.9.2025, 0:37:02 - INFO - Server listening on port http://127.0.0.1:3030/
+24.9.2025, 0:37:05 - INFO - server.js loaded...
+24.9.2025, 0:37:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.9.2025, 0:37:08 - INFO - server.js loaded...
+24.9.2025, 0:37:08 - INFO - Server listening on port http://127.0.0.1:3030/
+24.9.2025, 0:37:15 - INFO - Req was made | /
+24.9.2025, 0:37:15 - INFO - Req was made | /

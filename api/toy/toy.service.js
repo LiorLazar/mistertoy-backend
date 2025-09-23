@@ -38,8 +38,18 @@ async function query(filterBy = {}) {
 
 async function getById(toyId) {
     try {
+        // Validate toyId
+        if (!toyId) {
+            throw new Error('Toy ID is required')
+        }
+
+        // Check if toyId is a valid ObjectId format (24 hex characters)
+        if (!ObjectId.isValid(toyId)) {
+            throw new Error('Invalid toy ID format')
+        }
+
         const collection = await dbService.getCollection('toy')
-        const toy = collection.findOne({ _id: ObjectId.createFromHexString(toyId) })
+        const toy = await collection.findOne({ _id: ObjectId.createFromHexString(toyId) })
         return toy
     } catch (error) {
         loggerService.error(`While finding toy ${toyId}`, error)
