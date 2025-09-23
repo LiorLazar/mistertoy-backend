@@ -82,3 +82,103 @@
 23.9.2025, 21:43:03 - INFO - Server listening on port http://127.0.0.1:3030/
 23.9.2025, 21:43:04 - INFO - Server listening on port http://127.0.0.1:3030/
 23.9.2025, 21:43:07 - INFO - Server listening on port http://127.0.0.1:3030/
+23.9.2025, 23:57:32 - INFO - server.js loaded...
+23.9.2025, 23:57:32 - INFO - Server listening on port http://127.0.0.1:3030/
+23.9.2025, 23:57:40 - INFO - server.js loaded...
+23.9.2025, 23:57:40 - INFO - Server listening on port http://127.0.0.1:3030/
+23.9.2025, 23:57:50 - INFO - Req was made | /
+23.9.2025, 23:57:50 - ERROR - Failed to get Mongo collection | ReferenceError: dbConn is not defined
+23.9.2025, 23:57:50 - ERROR - Cannot load toys | ReferenceError: dbConn is not defined
+23.9.2025, 23:57:50 - ERROR - cannot find toys | ReferenceError: dbConn is not defined
+23.9.2025, 23:57:50 - INFO - Req was made | /
+23.9.2025, 23:57:50 - ERROR - Failed to get Mongo collection | ReferenceError: dbConn is not defined
+23.9.2025, 23:57:50 - ERROR - cannot find toys | ReferenceError: dbConn is not defined
+23.9.2025, 23:57:50 - ERROR - Cannot load toys | ReferenceError: dbConn is not defined
+23.9.2025, 23:58:24 - INFO - server.js loaded...
+23.9.2025, 23:58:24 - INFO - Server listening on port http://127.0.0.1:3030/
+23.9.2025, 23:58:34 - INFO - server.js loaded...
+23.9.2025, 23:58:34 - INFO - Server listening on port http://127.0.0.1:3030/
+23.9.2025, 23:58:38 - INFO - server.js loaded...
+23.9.2025, 23:58:38 - INFO - Server listening on port http://127.0.0.1:3030/
+23.9.2025, 23:58:45 - INFO - Req was made | /
+23.9.2025, 23:58:45 - ERROR - Cannot Connenct to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+23.9.2025, 23:58:45 - ERROR - cannot find toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+23.9.2025, 23:58:45 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+23.9.2025, 23:58:45 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+23.9.2025, 23:58:45 - INFO - Req was made | /
+23.9.2025, 23:58:45 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+23.9.2025, 23:58:45 - ERROR - Cannot Connenct to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+23.9.2025, 23:58:45 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+23.9.2025, 23:58:45 - ERROR - cannot find toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
+23.9.2025, 23:59:23 - INFO - server.js loaded...
+23.9.2025, 23:59:23 - INFO - Server listening on port http://127.0.0.1:3030/
+23.9.2025, 23:59:32 - INFO - server.js loaded...
+23.9.2025, 23:59:32 - INFO - Server listening on port http://127.0.0.1:3030/
+23.9.2025, 23:59:37 - INFO - Req was made | /
+23.9.2025, 23:59:37 - INFO - Req was made | /
+24.9.2025, 0:02:05 - INFO - Req was made | /
+24.9.2025, 0:02:05 - INFO - Req was made | /
+24.9.2025, 0:02:10 - INFO - Req was made | /
+24.9.2025, 0:02:17 - INFO - Req was made | /
+24.9.2025, 0:02:22 - INFO - Req was made | /
+24.9.2025, 0:02:35 - INFO - Req was made | /
+24.9.2025, 0:02:39 - INFO - Req was made | /
+24.9.2025, 0:02:39 - INFO - Req was made | /
+24.9.2025, 0:02:44 - INFO - Req was made | /
+24.9.2025, 0:02:44 - INFO - Req was made | /
+24.9.2025, 0:02:49 - INFO - Req was made | /
+24.9.2025, 0:02:49 - INFO - Req was made | /
+24.9.2025, 0:03:43 - INFO - server.js loaded...
+24.9.2025, 0:03:43 - INFO - Server listening on port http://127.0.0.1:3030/
+24.9.2025, 0:04:02 - INFO - server.js loaded...
+24.9.2025, 0:04:02 - INFO - Server listening on port http://127.0.0.1:3030/
+24.9.2025, 0:04:48 - INFO - server.js loaded...
+24.9.2025, 0:04:48 - INFO - Server listening on port http://127.0.0.1:3030/
+24.9.2025, 0:05:46 - INFO - server.js loaded...
+24.9.2025, 0:05:46 - INFO - Server listening on port http://127.0.0.1:3030/
+24.9.2025, 0:06:34 - INFO - Req was made | /
+24.9.2025, 0:06:34 - INFO - Req was made | /
+24.9.2025, 0:06:40 - INFO - Req was made | /
+24.9.2025, 0:06:40 - INFO - Req was made | /
+24.9.2025, 0:06:41 - INFO - Req was made | /
+24.9.2025, 0:06:41 - INFO - Req was made | /
+24.9.2025, 0:06:44 - INFO - Req was made | /
+24.9.2025, 0:07:55 - INFO - Req was made | /
+24.9.2025, 0:07:56 - INFO - Req was made | /
+24.9.2025, 0:07:57 - INFO - Req was made | /
+24.9.2025, 0:08:02 - INFO - Req was made | /
+24.9.2025, 0:08:22 - INFO - Req was made | /
+24.9.2025, 0:08:30 - INFO - Req was made | /
+24.9.2025, 0:08:41 - INFO - Req was made | /
+24.9.2025, 0:08:51 - INFO - Req was made | /
+24.9.2025, 0:08:51 - INFO - Req was made | /
+24.9.2025, 0:09:03 - INFO - Req was made | /
+24.9.2025, 0:09:06 - INFO - Req was made | /
+24.9.2025, 0:09:10 - INFO - Req was made | /
+24.9.2025, 0:09:11 - INFO - Req was made | /
+24.9.2025, 0:09:11 - INFO - Req was made | /
+24.9.2025, 0:09:13 - INFO - Req was made | /
+24.9.2025, 0:09:13 - INFO - Req was made | /
+24.9.2025, 0:09:16 - INFO - Req was made | /
+24.9.2025, 0:09:16 - INFO - Req was made | /
+24.9.2025, 0:09:49 - INFO - Req was made | /
+24.9.2025, 0:09:49 - INFO - Req was made | /
+24.9.2025, 0:10:01 - INFO - Req was made | /
+24.9.2025, 0:10:33 - INFO - Req was made | /
+24.9.2025, 0:10:46 - INFO - Req was made | /
+24.9.2025, 0:10:46 - INFO - Req was made | /
+24.9.2025, 0:10:56 - INFO - Req was made | /
+24.9.2025, 0:10:56 - INFO - Req was made | /
+24.9.2025, 0:11:06 - INFO - Req was made | /
+24.9.2025, 0:11:39 - INFO - Req was made | /
+24.9.2025, 0:11:39 - INFO - Req was made | /
+24.9.2025, 0:11:44 - INFO - Req was made | /
+24.9.2025, 0:11:53 - INFO - Req was made | /
+24.9.2025, 0:12:04 - INFO - Req was made | /
+24.9.2025, 0:12:29 - INFO - Req was made | /
+24.9.2025, 0:12:33 - INFO - Req was made | /
+24.9.2025, 0:12:35 - INFO - Req was made | /
+24.9.2025, 0:12:36 - INFO - Req was made | /
+24.9.2025, 0:14:12 - INFO - Req was made | /
+24.9.2025, 0:14:17 - INFO - Req was made | /
+24.9.2025, 0:14:17 - INFO - Req was made | /

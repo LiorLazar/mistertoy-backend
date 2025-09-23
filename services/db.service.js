@@ -1,7 +1,9 @@
 import { MongoClient } from 'mongodb'
 
-import { config } from '../config.js'
-import { loggerService } from "./logger.service"
+import { loggerService } from "./logger.service.js"
+import { config } from '../config/index.js'
+
+var dbConn = null
 
 export const dbService = {
     getCollection,
@@ -21,7 +23,7 @@ async function getCollection(collectionName) {
 async function _connect() {
     if (dbConn) return dbConn
     try {
-        const client = await MongoClient.connect(config.dbUrl)
+        const client = await MongoClient.connect(config.dbURL)
         const db = client.db(config.dbName)
         dbConn = db
         return db

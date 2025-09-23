@@ -6,7 +6,6 @@
       "Puzzle",
       "Box game"
     ],
-    "_id": "FHeoH",
     "createdAt": 1721307706470,
     "inStock": true
   },
@@ -17,7 +16,6 @@
       "On wheels",
       "Outdoor"
     ],
-    "_id": "r19SU",
     "createdAt": 1720676977009,
     "inStock": false
   },
@@ -29,7 +27,6 @@
       "Battery Powered",
       "Baby"
     ],
-    "_id": "t101",
     "createdAt": 1631031801011,
     "inStock": true
   },
@@ -40,7 +37,6 @@
       "Puzzle",
       "Baby"
     ],
-    "_id": "t102",
     "createdAt": 1631032801011,
     "inStock": true
   },
@@ -52,7 +48,6 @@
       "Battery Powered",
       "Outdoor"
     ],
-    "_id": "t103",
     "createdAt": 1631033801011,
     "inStock": true
   },
@@ -63,7 +58,6 @@
       "Box game",
       "Baby"
     ],
-    "_id": "t104",
     "createdAt": 1631034801011,
     "inStock": true
   },
@@ -74,7 +68,6 @@
       "Art",
       "Box game"
     ],
-    "_id": "t105",
     "createdAt": 1631035801011,
     "inStock": false
   },
@@ -85,7 +78,6 @@
       "Battery Powered",
       "Outdoor"
     ],
-    "_id": "t106",
     "createdAt": 1631036801011,
     "inStock": true
   },
@@ -97,7 +89,6 @@
       "Box game",
       "Battery Powered"
     ],
-    "_id": "t107",
     "createdAt": 1631037801011,
     "inStock": false
   },
@@ -108,7 +99,6 @@
       "Baby",
       "Doll"
     ],
-    "_id": "t108",
     "createdAt": 1631038801011,
     "inStock": true
   },
@@ -119,7 +109,6 @@
       "Puzzle",
       "Art"
     ],
-    "_id": "t109",
     "createdAt": 1631039801011,
     "inStock": false
   },
@@ -130,7 +119,6 @@
       "Battery Powered",
       "Outdoor"
     ],
-    "_id": "t110",
     "createdAt": 1631040801011,
     "inStock": false
   },
@@ -141,7 +129,6 @@
       "Box game",
       "Baby"
     ],
-    "_id": "t111",
     "createdAt": 1631041801011,
     "inStock": false
   },
@@ -152,7 +139,6 @@
       "Art",
       "Box game"
     ],
-    "_id": "t112",
     "createdAt": 1631042801011,
     "inStock": true
   },
@@ -163,7 +149,6 @@
       "Baby",
       "Box game"
     ],
-    "_id": "t113",
     "createdAt": 1631043801011,
     "inStock": true
   },
@@ -174,7 +159,6 @@
       "On wheels",
       "Battery Powered"
     ],
-    "_id": "t114",
     "createdAt": 1631044801011,
     "inStock": false
   },
@@ -185,7 +169,6 @@
       "Art",
       "Box game"
     ],
-    "_id": "t115",
     "createdAt": 1631045801011,
     "inStock": true
   },
@@ -196,7 +179,6 @@
       "Outdoor",
       "Baby"
     ],
-    "_id": "t117",
     "createdAt": 1631047801011,
     "inStock": true
   },
@@ -206,8 +188,7 @@
     "labels": [
       "On wheels",
       "Box game"
-    ],
-    "_id": "PgZhg"
+    ]
   },
   {
     "name": "Hanayama Puzzle",
@@ -215,7 +196,6 @@
     "labels": [
       "Puzzle",
       "Box game"
-    ],
-    "_id": "rdwrF"
+    ]
   }
 ]
