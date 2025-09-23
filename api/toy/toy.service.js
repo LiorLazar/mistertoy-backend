@@ -1,102 +1,147 @@
 import { ObjectId } from 'mongodb'
-
 import { dbService } from '../../services/db.service.js'
 import { loggerService } from '../../services/logger.service.js'
 import { utilService } from '../../services/util.service.js'
 
+const PAGE_SIZE = 5
+
 export const toyService = {
     query,
     getById,
+    remove,
     add,
     update,
-    addToyMsg,
-    RemoveToyMsg,
+    addMsg,
+    removeMsg,
 }
 
-async function 
+async function query(filterBy = {}) {
+    try {
+        const { filterCriteria, sortCriteria, skip } = _buildCriteria(filterBy)
+        console.log(filterCriteria)
+        console.log(sortCriteria)
 
-// const toys = utilService.readJsonFile('data/toy.json')
+        const collection = await dbService.getCollection('toy')
+        const prmTotalCount = collection.countDocuments(filterCriteria)
 
-// function query(filterBy = {}, sortBy = {}) {
-//     let toysToReturn = toys
+        const prmFilteredToys = collection
+            .find(filterCriteria, { sort: sortCriteria, skip, limit: PAGE_SIZE }).toArray()
 
-//     if (filterBy.txt) {
-//         const regex = new RegExp(filterBy.txt, 'i')
-//         toysToReturn = toys.filter(toy => regex.test(toy.name))
-//     }
+        const [totalCount, filteredToys] = await Promise.all([prmTotalCount, prmFilteredToys])
+        const maxPage = Math.ceil(totalCount / PAGE_SIZE)
+        return { toys: filteredToys, maxPage }
+    } catch (error) {
+        loggerService.error('cannot find toys', error)
+        throw error
+    }
+}
 
-//     if (typeof filterBy.isStock === 'boolean') {
-//         toysToReturn = toys.filter(toy => toy.isStock === filterBy.isStock)
-//     }
+async function getById(toyId) {
+    try {
+        const collection = await dbService.getCollection('toy')
+        const toy = collection.findOne({ _id: ObjectId.createFromHexString(toyId) })
+        return toy
+    } catch (error) {
+        loggerService.error(`While finding toy ${toyId}`, error)
+        throw error
+    }
+}
 
-//     if (filterBy.labels?.length) {
-//         toysToReturn = toysToReturn.filter(toy =>
-//             filterBy.labels.every(label => toy.labels.includes(label))
-//         )
-//     }
+async function remove(toyId) {
+    try {
+        const collection = await dbService.getCollection('toy')
+        await collection.deleteOne({ _id: ObjectId.createFromHexString(toyId) })
+    } catch (error) {
+        loggerService.error(`Cannot Remove toy ${toyId}`, error)
+        throw error
+    }
+}
 
-//     if (sortBy.type) {
-//         const dir = sortBy.desc
-//         toysToReturn.sort((a, b) => {
-//             if (sortBy.type === 'name') return a.name.localeCompare(b.name) * dir
-//             else if (sortBy.type === 'price' || sortBy.type === 'createdAt') return (a[sortBy.type] - b[sortBy.type]) * dir
-//         })
-//     }
-//     return Promise.resolve(toysToReturn)
-// }
+async function add(toy) {
+    try {
+        toy.createdAt = Date.now()
+        toy.inStock = true
+        const collection = await dbService.getCollection('toy')
+        await collection.insertOne(toy)
+        return toy
+    } catch (error) {
+        loggerService.error('cannot insert toy', error)
+        throw error
+    }
+}
 
-// function getById(toyId) {
-//     const toy = toys.find(toy => toy._id === toyId)
-//     return Promise.resolve(toy)
-// }
+async function update(toy) {
+    try {
+        const { name, price, labels } = toy
+        const toyToUpdate = {
+            name,
+            price,
+            labels,
+        }
+        const collection = await dbService.getCollection('toy')
+        await collection.updateOne(
+            { _id: ObjectId.createFromHexString(toy._id) },
+            { $set: toyToUpdate }
+        )
+        return toy
+    } catch (error) {
+        loggerService.error(`cannot update toy ${toy._id}`, error)
+        throw error
+    }
+}
 
-// function save(toy) {
-//     if (toy._id) {
-//         const toyToUpdate = toys.find(currToy => currToy._id === toy._id)
+async function addMsg(toyId, msg) {
+    msg.id = utilService.makeId()
 
-//         toyToUpdate.name = toy.name
-//         toyToUpdate.price = toy.price
-//         toyToUpdate.labels = toy.labels
-//         toyToUpdate.inStock = toy.inStock
-//         toy = toyToUpdate
-//     } else {
-//         toy._id = utilService.makeId()
-//         toys.push(toy)
-//     }
-//     return _saveToysToFile().then(() => toy)
-// }
+    try {
+        const collection = await dbService.getCollection('toy')
 
-// function remove(toyId) {
-//     const idx = toys.findIndex(toy => toy._id === toyId)
-//     if (idx === -1) return Promise.reject('No Such Toy')
+        await collection.updateOne(
+            { _id: ObjectId.createFromHexString(toyId) },
+            { $push: { msgs: msg } }
+        )
+        return msg
+    } catch (error) {
+        loggerService.error(`Cannot add message to toy ${toyId}`, error)
+        throw error
+    }
+}
 
-//     const toy = toys[idx]
-//     toys.splice(idx, 1)
-//     return _saveToysToFile()
-// }
+async function removeMsg(toyId, msgId) {
+    try {
+        const collection = await dbService.getCollection('toy')
+        await collection.updateOne(
+            { _id: ObjectId.createFromHexString(toyId) },
+            { $pull: { msgs: { id: msgId } } }
+        )
+        return msgId
+    } catch (error) {
+        loggerService.error(`Cannot remove message from toy ${toyId}`, error)
+        throw error
+    }
+}
 
-// function getDefaultFilter() {
-//     return {
-//         txt: '',
-//         isStock: '',
-//         labels: [],
-//         pageIdx: 0
-//     }
-// }
+function _buildCriteria(filterBy) {
+    const filterCriteria = {}
 
-// function getDefaultSort() {
-//     return { type: '', desc: 1 }
-// }
+    if (filterBy.txt) {
+        filterCriteria.name = { $regex: filterBy.txt, $options: 'i' }
+    }
+    if (filterBy.inStock) {
+        filterCriteria.inStock = JSON.parse(filterBy.inStock)
+    }
+    if (filterBy.labels && filterBy.labels.length) {
+        filterCriteria.labels = { $all: filterBy.labels }
+    }
 
-// function _saveToysToFile() {
-//     return new Promise((resolve, reject) => {
-//         const data = JSON.stringify(toys, null, 2)
-//         fs.writeFile('data/toy.json', data, (err) => {
-//             if (err) {
-//                 loggerService.error('Cannot write to toys file', err)
-//                 return reject(err)
-//             }
-//             resolve()
-//         })
-//     })
-// }
+    const sortCriteria = {}
+
+    const sortBy = filterBy.sortBy
+    if (sortBy.type) {
+        const sortDirection = +sortBy.sortDir
+        sortCriteria[sortBy.type] = sortDirection
+    } else sortCriteria.createdAt = -1
+
+    const skip = filterBy.pageIdx !== undefined ? filterBy.pageIdx * PAGE_SIZE : 0
+    return { filterCriteria, sortCriteria, skip }
+}
