@@ -256,3 +256,7 @@
 24.9.2025, 0:37:08 - INFO - Server listening on port http://127.0.0.1:3030/
 24.9.2025, 0:37:15 - INFO - Req was made | /
 24.9.2025, 0:37:15 - INFO - Req was made | /
+24.9.2025, 19:15:01 - INFO - server.js loaded...
+24.9.2025, 19:15:01 - INFO - Server listening on port http://127.0.0.1:3030/
+24.9.2025, 19:15:05 - INFO - Req was made | /
+24.9.2025, 19:15:05 - INFO - Req was made | /

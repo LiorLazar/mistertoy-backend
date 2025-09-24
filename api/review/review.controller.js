@@ -1,6 +1,6 @@
 import { loggerService } from "../../services/logger.service.js"
 import { authService } from "../auth/auth.service.js"
-import { toyService } from "../toy/toy.service"
+import { toyService } from "../toy/toy.service.js"
 import { reviewService } from "./review.service.js"
 
 
