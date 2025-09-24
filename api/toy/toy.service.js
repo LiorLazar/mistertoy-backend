@@ -38,12 +38,10 @@ async function query(filterBy = {}) {
 
 async function getById(toyId) {
     try {
-        // Validate toyId
         if (!toyId) {
             throw new Error('Toy ID is required')
         }
 
-        // Check if toyId is a valid ObjectId format (24 hex characters)
         if (!ObjectId.isValid(toyId)) {
             throw new Error('Invalid toy ID format')
         }
