@@ -1,4 +1,5 @@
 import { loggerService } from "../../services/logger.service.js"
+import { socketService } from "../../services/socket.service.js"
 import { authService } from "../auth/auth.service.js"
 import { toyService } from "../toy/toy.service.js"
 import { reviewService } from "./review.service.js"
@@ -20,7 +21,10 @@ export async function deleteReview(req, res) {
 
     try {
         const deletedCount = await reviewService.remove(reviewId)
-        res.send(deletedCount)
+        if (deletedCount === 1) {
+            socketService.broadcast({ type: 'review-removed', data: reviewId, userId: loggedinUser._id })
+            res.send({ msg: 'Deleted successfully' })
+        }
     } catch (err) {
         loggerService.error('Cannot remove review', err)
         res.status(500).send({ err: 'Failed to remove review' })
@@ -46,6 +50,8 @@ export async function addReview(req, res) {
         delete review.aboutToyId
         delete review.byUserId
 
+        socketService.broadcast({ type: 'review-added', data: review, userId: loggedinUser._id })
+            
         res.send(review)
     } catch (err) {
         loggerService.error('Failed to add review', err)
