@@ -4,6 +4,8 @@ import cors from 'cors'
 import path, { dirname } from 'path'
 import { fileURLToPath } from 'url'
 
+import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js'
+
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
@@ -11,6 +13,8 @@ import { loggerService } from './services/logger.service.js'
 loggerService.info('server.js loaded...')
 
 const app = express()
+
+app.all('*all', setupAsyncLocalStorage)
 
 //Express App Config
 app.use(cookieParser())
@@ -36,11 +40,13 @@ if (process.env.NODE_ENV === 'production') {
 import { toyRoutes } from './api/toy/toy.routes.js'
 import { authRoutes } from './api/auth/auth.routes.js'
 import { userRoutes } from './api/user/user.routes.js'
+import { reviewRoutes } from './api/review/review.routes.js'
 
 // Routes
 app.use('/api/toy', toyRoutes)
 app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
+app.use('/api/review', reviewRoutes)
 
 app.get('/*all', (req, res) => {
     res.sendFile(path.resolve('public/index.html'))
