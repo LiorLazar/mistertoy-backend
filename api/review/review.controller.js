@@ -1,60 +1,54 @@
-import { loggerService } from "../../services/logger.service.js"
-import { socketService } from "../../services/socket.service.js"
-import { authService } from "../auth/auth.service.js"
-import { toyService } from "../toy/toy.service.js"
-import { reviewService } from "./review.service.js"
-
+import { loggerService } from '../../services/logger.service.js'
+import { authService } from '../auth/auth.service.js'
+import { toyService } from '../toy/toy.service.js'
+import { reviewService } from './review.service.js'
 
 export async function getReviews(req, res) {
-    try {
-        const reviews = await reviewService.query(req.query)
-        res.send(reviews)
-    } catch (err) {
-        loggerService.error('Cannot get reviews', err)
-        res.status(500).send({ err: 'Failed to get reviews' })
-    }
+  try {
+    const reviews = await reviewService.query(req.query)
+    res.send(reviews)
+  } catch (err) {
+    loggerService.error('Cannot get reviews', err)
+    res.status(400).send({ err: 'Failed to get reviews' })
+  }
 }
 
 export async function deleteReview(req, res) {
-    var { loggedinUser } = req
-    const { id: reviewId } = req.params
+  const { id: reviewId } = req.params
 
-    try {
-        const deletedCount = await reviewService.remove(reviewId)
-        if (deletedCount === 1) {
-            socketService.broadcast({ type: 'review-removed', data: reviewId, userId: loggedinUser._id })
-            res.send({ msg: 'Deleted successfully' })
-        }
-    } catch (err) {
-        loggerService.error('Cannot remove review', err)
-        res.status(500).send({ err: 'Failed to remove review' })
-    }
+  try {
+    await reviewService.remove(reviewId)
+
+    res.send({ msg: 'Deleted successfully' })
+  } catch (err) {
+    loggerService.error('Failed to delete review', err)
+    res.status(400).send({ err: 'Failed to delete review' })
+  }
 }
 
 export async function addReview(req, res) {
-    var { loggedinUser } = req
+  var { loggedinUser } = req
 
-    try {
-        var review = req.body
-        const { aboutToyId } = review
-        review.byUserId = loggedinUser._id
-        review = await reviewService.add(review)
+  try {
+    var review = req.body
+    const { aboutToyId } = review
+    review.byUserId = loggedinUser._id
+    review = await reviewService.add(review)
 
-        const loginToken = authService.getLoginToken(loggedinUser)
-        res.cookie('loginToken', loginToken)
+    // Update user score in login token as well
+    const loginToken = authService.getLoginToken(loggedinUser)
+    res.cookie('loginToken', loginToken)
 
-        review.byUser = loggedinUser
-        review.aboutToyId = await toyService.getById(aboutToyId)
+    //* prepare the updated review for sending out
+    review.byUser = loggedinUser
+    review.aboutToy = await toyService.getById(aboutToyId)
+    review.createdAt = review._id.getTimestamp()
 
-        delete review.aboutUser.givenReviews
-        delete review.aboutToyId
-        delete review.byUserId
-
-        socketService.broadcast({ type: 'review-added', data: review, userId: loggedinUser._id })
-            
-        res.send(review)
-    } catch (err) {
-        loggerService.error('Failed to add review', err)
-        res.status(500).send({ err: 'Failed to add review' })
-    }
+    delete review.aboutToyId
+    delete review.byUserId
+    res.send(review)
+  } catch (err) {
+    loggerService.error('Failed to add review', err)
+    res.status(400).send({ err: 'Failed to add review' })
+  }
 }

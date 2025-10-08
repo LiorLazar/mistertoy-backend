@@ -1,770 +1,832 @@
-27.8.2025, 20:22:37 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:35:24 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:39:07 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:39:10 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:39:17 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:39:18 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:40:04 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:40:30 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:40:45 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:40:57 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:40:59 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:41:18 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:41:20 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:41:28 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:41:34 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:41:38 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:41:43 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:41:47 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:41:52 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:41:57 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:42:07 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:42:08 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:42:16 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:53:32 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:53:34 - ERROR - Cannot save toy | ReferenceError: cars is not defined
-27.8.2025, 23:53:50 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:53:53 - ERROR - Cannot save toy | ReferenceError: fs is not defined
-27.8.2025, 23:54:42 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:57:43 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:57:51 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:57:52 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:58:03 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:58:06 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:58:09 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:58:16 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:58:20 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:58:21 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:58:28 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:58:34 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:58:36 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:58:42 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:58:50 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:58:57 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:59:05 - INFO - Server listening on port http://127.0.0.1:3030/
-27.8.2025, 23:59:06 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:01:01 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:02:00 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:02:01 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:03:05 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:03:05 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:04:49 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:04:59 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:05:02 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:05:18 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:05:29 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:05:30 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:05:37 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:05:39 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:05:46 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:05:50 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:05:51 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:06:05 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:06:09 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:07:48 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:07:49 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:16:33 - INFO - Server listening on port http://127.0.0.1:3030/
-28.8.2025, 0:16:39 - INFO - Server listening on port http://127.0.0.1:3030/
-2.9.2025, 7:06:45 - INFO - Server listening on port http://127.0.0.1:3030/
-2.9.2025, 7:06:46 - INFO - Server listening on port http://127.0.0.1:3030/
-2.9.2025, 7:06:46 - INFO - Server listening on port http://127.0.0.1:3030/
-2.9.2025, 7:07:40 - INFO - Server listening on port http://127.0.0.1:3030/
-2.9.2025, 7:11:12 - INFO - Server listening on port http://127.0.0.1:3030/
-2.9.2025, 7:11:12 - INFO - Server listening on port http://127.0.0.1:3030/
-2.9.2025, 7:11:16 - INFO - Server listening on port http://127.0.0.1:3030/
-2.9.2025, 7:11:21 - INFO - Server listening on port http://127.0.0.1:3030/
-2.9.2025, 7:11:29 - INFO - Server listening on port http://127.0.0.1:3030/
-2.9.2025, 7:11:29 - INFO - Server listening on port http://127.0.0.1:3030/
-2.9.2025, 7:11:30 - INFO - Server listening on port http://127.0.0.1:3030/
-23.9.2025, 20:48:25 - INFO - Server listening on port http://127.0.0.1:3030/
-23.9.2025, 21:42:57 - INFO - Server listening on port http://127.0.0.1:3030/
-23.9.2025, 21:42:58 - INFO - Server listening on port http://127.0.0.1:3030/
-23.9.2025, 21:43:03 - INFO - Server listening on port http://127.0.0.1:3030/
-23.9.2025, 21:43:04 - INFO - Server listening on port http://127.0.0.1:3030/
-23.9.2025, 21:43:07 - INFO - Server listening on port http://127.0.0.1:3030/
-23.9.2025, 23:57:32 - INFO - server.js loaded...
-23.9.2025, 23:57:32 - INFO - Server listening on port http://127.0.0.1:3030/
-23.9.2025, 23:57:40 - INFO - server.js loaded...
-23.9.2025, 23:57:40 - INFO - Server listening on port http://127.0.0.1:3030/
-23.9.2025, 23:57:50 - INFO - Req was made | /
-23.9.2025, 23:57:50 - ERROR - Failed to get Mongo collection | ReferenceError: dbConn is not defined
-23.9.2025, 23:57:50 - ERROR - Cannot load toys | ReferenceError: dbConn is not defined
-23.9.2025, 23:57:50 - ERROR - cannot find toys | ReferenceError: dbConn is not defined
-23.9.2025, 23:57:50 - INFO - Req was made | /
-23.9.2025, 23:57:50 - ERROR - Failed to get Mongo collection | ReferenceError: dbConn is not defined
-23.9.2025, 23:57:50 - ERROR - cannot find toys | ReferenceError: dbConn is not defined
-23.9.2025, 23:57:50 - ERROR - Cannot load toys | ReferenceError: dbConn is not defined
-23.9.2025, 23:58:24 - INFO - server.js loaded...
-23.9.2025, 23:58:24 - INFO - Server listening on port http://127.0.0.1:3030/
-23.9.2025, 23:58:34 - INFO - server.js loaded...
-23.9.2025, 23:58:34 - INFO - Server listening on port http://127.0.0.1:3030/
-23.9.2025, 23:58:38 - INFO - server.js loaded...
-23.9.2025, 23:58:38 - INFO - Server listening on port http://127.0.0.1:3030/
-23.9.2025, 23:58:45 - INFO - Req was made | /
-23.9.2025, 23:58:45 - ERROR - Cannot Connenct to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
-23.9.2025, 23:58:45 - ERROR - cannot find toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
-23.9.2025, 23:58:45 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
-23.9.2025, 23:58:45 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
-23.9.2025, 23:58:45 - INFO - Req was made | /
-23.9.2025, 23:58:45 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
-23.9.2025, 23:58:45 - ERROR - Cannot Connenct to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
-23.9.2025, 23:58:45 - ERROR - Cannot load toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
-23.9.2025, 23:58:45 - ERROR - cannot find toys | TypeError: Cannot read properties of undefined (reading 'startsWith')
-23.9.2025, 23:59:23 - INFO - server.js loaded...
-23.9.2025, 23:59:23 - INFO - Server listening on port http://127.0.0.1:3030/
-23.9.2025, 23:59:32 - INFO - server.js loaded...
-23.9.2025, 23:59:32 - INFO - Server listening on port http://127.0.0.1:3030/
-23.9.2025, 23:59:37 - INFO - Req was made | /
-23.9.2025, 23:59:37 - INFO - Req was made | /
-24.9.2025, 0:02:05 - INFO - Req was made | /
-24.9.2025, 0:02:05 - INFO - Req was made | /
-24.9.2025, 0:02:10 - INFO - Req was made | /
-24.9.2025, 0:02:17 - INFO - Req was made | /
-24.9.2025, 0:02:22 - INFO - Req was made | /
-24.9.2025, 0:02:35 - INFO - Req was made | /
-24.9.2025, 0:02:39 - INFO - Req was made | /
-24.9.2025, 0:02:39 - INFO - Req was made | /
-24.9.2025, 0:02:44 - INFO - Req was made | /
-24.9.2025, 0:02:44 - INFO - Req was made | /
-24.9.2025, 0:02:49 - INFO - Req was made | /
-24.9.2025, 0:02:49 - INFO - Req was made | /
-24.9.2025, 0:03:43 - INFO - server.js loaded...
-24.9.2025, 0:03:43 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 0:04:02 - INFO - server.js loaded...
-24.9.2025, 0:04:02 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 0:04:48 - INFO - server.js loaded...
-24.9.2025, 0:04:48 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 0:05:46 - INFO - server.js loaded...
-24.9.2025, 0:05:46 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 0:06:34 - INFO - Req was made | /
-24.9.2025, 0:06:34 - INFO - Req was made | /
-24.9.2025, 0:06:40 - INFO - Req was made | /
-24.9.2025, 0:06:40 - INFO - Req was made | /
-24.9.2025, 0:06:41 - INFO - Req was made | /
-24.9.2025, 0:06:41 - INFO - Req was made | /
-24.9.2025, 0:06:44 - INFO - Req was made | /
-24.9.2025, 0:07:55 - INFO - Req was made | /
-24.9.2025, 0:07:56 - INFO - Req was made | /
-24.9.2025, 0:07:57 - INFO - Req was made | /
-24.9.2025, 0:08:02 - INFO - Req was made | /
-24.9.2025, 0:08:22 - INFO - Req was made | /
-24.9.2025, 0:08:30 - INFO - Req was made | /
-24.9.2025, 0:08:41 - INFO - Req was made | /
-24.9.2025, 0:08:51 - INFO - Req was made | /
-24.9.2025, 0:08:51 - INFO - Req was made | /
-24.9.2025, 0:09:03 - INFO - Req was made | /
-24.9.2025, 0:09:06 - INFO - Req was made | /
-24.9.2025, 0:09:10 - INFO - Req was made | /
-24.9.2025, 0:09:11 - INFO - Req was made | /
-24.9.2025, 0:09:11 - INFO - Req was made | /
-24.9.2025, 0:09:13 - INFO - Req was made | /
-24.9.2025, 0:09:13 - INFO - Req was made | /
-24.9.2025, 0:09:16 - INFO - Req was made | /
-24.9.2025, 0:09:16 - INFO - Req was made | /
-24.9.2025, 0:09:49 - INFO - Req was made | /
-24.9.2025, 0:09:49 - INFO - Req was made | /
-24.9.2025, 0:10:01 - INFO - Req was made | /
-24.9.2025, 0:10:33 - INFO - Req was made | /
-24.9.2025, 0:10:46 - INFO - Req was made | /
-24.9.2025, 0:10:46 - INFO - Req was made | /
-24.9.2025, 0:10:56 - INFO - Req was made | /
-24.9.2025, 0:10:56 - INFO - Req was made | /
-24.9.2025, 0:11:06 - INFO - Req was made | /
-24.9.2025, 0:11:39 - INFO - Req was made | /
-24.9.2025, 0:11:39 - INFO - Req was made | /
-24.9.2025, 0:11:44 - INFO - Req was made | /
-24.9.2025, 0:11:53 - INFO - Req was made | /
-24.9.2025, 0:12:04 - INFO - Req was made | /
-24.9.2025, 0:12:29 - INFO - Req was made | /
-24.9.2025, 0:12:33 - INFO - Req was made | /
-24.9.2025, 0:12:35 - INFO - Req was made | /
-24.9.2025, 0:12:36 - INFO - Req was made | /
-24.9.2025, 0:14:12 - INFO - Req was made | /
-24.9.2025, 0:14:17 - INFO - Req was made | /
-24.9.2025, 0:14:17 - INFO - Req was made | /
-24.9.2025, 0:14:56 - INFO - server.js loaded...
-24.9.2025, 0:14:56 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 0:14:56 - INFO - server.js loaded...
-24.9.2025, 0:14:56 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 0:26:28 - INFO - Req was made | /
-24.9.2025, 0:26:28 - INFO - Req was made | /
-24.9.2025, 0:26:31 - INFO - Req was made | /
-24.9.2025, 0:26:57 - INFO - Req was made | /
-24.9.2025, 0:27:23 - DEBUG - auth.service - login with username: admin
-24.9.2025, 0:27:23 - DEBUG - auth.service - login with username: admin
-24.9.2025, 0:27:23 - DEBUG - auth.service - login with username: admin
-24.9.2025, 0:27:23 - INFO - User login:  | {"_id":"6693c0ac62157821fbb7cb3e","username":"admin","fullname":"Mister-Toy","isAdmin":true}
-24.9.2025, 0:27:23 - INFO - User login:  | {"_id":"6693c0ac62157821fbb7cb3e","username":"admin","fullname":"Mister-Toy","isAdmin":true}
-24.9.2025, 0:27:23 - INFO - User login:  | {"_id":"6693c0ac62157821fbb7cb3e","username":"admin","fullname":"Mister-Toy","isAdmin":true}
-24.9.2025, 0:29:24 - INFO - Req was made | /
-24.9.2025, 0:29:33 - INFO - Req was made | /
-24.9.2025, 0:29:38 - INFO - Req was made | /
-24.9.2025, 0:29:41 - INFO - Req was made | /
-24.9.2025, 0:29:49 - INFO - Req was made | /
-24.9.2025, 0:30:16 - INFO - Req was made | /
-24.9.2025, 0:30:16 - INFO - Req was made | /
-24.9.2025, 0:30:19 - INFO - Req was made | /
-24.9.2025, 0:30:21 - INFO - Req was made | /
-24.9.2025, 0:30:22 - INFO - Req was made | /
-24.9.2025, 0:31:26 - INFO - Req was made | /
-24.9.2025, 0:31:26 - INFO - Req was made | /
-24.9.2025, 0:31:34 - INFO - Req was made | /
-24.9.2025, 0:31:38 - INFO - Req was made | /
-24.9.2025, 0:32:04 - INFO - Req was made | /
-24.9.2025, 0:32:11 - INFO - Req was made | /
-24.9.2025, 0:32:30 - INFO - Req was made | /
-24.9.2025, 0:33:13 - INFO - Req was made | /
-24.9.2025, 0:33:13 - INFO - Req was made | /
-24.9.2025, 0:33:46 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
-24.9.2025, 0:33:46 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
-24.9.2025, 0:33:46 - INFO - Req was made | /
-24.9.2025, 0:33:46 - INFO - Req was made | /
-24.9.2025, 0:33:47 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
-24.9.2025, 0:33:47 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
-24.9.2025, 0:33:47 - INFO - Req was made | /
-24.9.2025, 0:33:47 - INFO - Req was made | /
-24.9.2025, 0:33:48 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
-24.9.2025, 0:33:48 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
-24.9.2025, 0:33:48 - INFO - Req was made | /
-24.9.2025, 0:33:48 - INFO - Req was made | /
-24.9.2025, 0:33:55 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
-24.9.2025, 0:33:55 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
-24.9.2025, 0:33:55 - INFO - Req was made | /
-24.9.2025, 0:33:55 - INFO - Req was made | /
-24.9.2025, 0:34:24 - INFO - Req was made | /
-24.9.2025, 0:34:30 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
-24.9.2025, 0:34:30 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
-24.9.2025, 0:34:37 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
-24.9.2025, 0:34:37 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
-24.9.2025, 0:34:52 - INFO - Req was made | /
-24.9.2025, 0:35:26 - INFO - server.js loaded...
-24.9.2025, 0:35:26 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 0:35:40 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
-24.9.2025, 0:35:40 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
-24.9.2025, 0:35:47 - INFO - Req was made | /
-24.9.2025, 0:36:00 - ERROR - While finding toy undefined | BSONError: hex string must be 24 characters
-24.9.2025, 0:36:00 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
-24.9.2025, 0:36:43 - INFO - server.js loaded...
-24.9.2025, 0:36:43 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 0:36:52 - INFO - server.js loaded...
-24.9.2025, 0:36:52 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 0:37:02 - INFO - server.js loaded...
-24.9.2025, 0:37:02 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 0:37:05 - INFO - server.js loaded...
-24.9.2025, 0:37:05 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 0:37:08 - INFO - server.js loaded...
-24.9.2025, 0:37:08 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 0:37:15 - INFO - Req was made | /
-24.9.2025, 0:37:15 - INFO - Req was made | /
-24.9.2025, 19:15:01 - INFO - server.js loaded...
-24.9.2025, 19:15:01 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 19:15:05 - INFO - Req was made | /
-24.9.2025, 19:15:05 - INFO - Req was made | /
-24.9.2025, 22:02:01 - INFO - server.js loaded...
-24.9.2025, 22:02:01 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:02:06 - INFO - server.js loaded...
-24.9.2025, 22:02:06 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:02:16 - INFO - server.js loaded...
-24.9.2025, 22:02:16 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:02:18 - INFO - server.js loaded...
-24.9.2025, 22:02:18 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:02:26 - INFO - server.js loaded...
-24.9.2025, 22:02:26 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:02:28 - INFO - server.js loaded...
-24.9.2025, 22:02:28 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:02:36 - INFO - server.js loaded...
-24.9.2025, 22:02:36 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:02:36 - INFO - server.js loaded...
-24.9.2025, 22:02:36 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:02:38 - INFO - server.js loaded...
-24.9.2025, 22:02:38 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:02:41 - INFO - server.js loaded...
-24.9.2025, 22:02:41 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:02:42 - INFO - server.js loaded...
-24.9.2025, 22:02:42 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:02:46 - INFO - server.js loaded...
-24.9.2025, 22:02:46 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:02:48 - INFO - server.js loaded...
-24.9.2025, 22:02:48 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:02:50 - INFO - server.js loaded...
-24.9.2025, 22:02:50 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:02:54 - INFO - server.js loaded...
-24.9.2025, 22:02:54 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:02:57 - INFO - server.js loaded...
-24.9.2025, 22:02:57 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:03:01 - INFO - server.js loaded...
-24.9.2025, 22:03:01 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:03:05 - INFO - server.js loaded...
-24.9.2025, 22:03:05 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:03:08 - INFO - server.js loaded...
-24.9.2025, 22:03:08 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:03:11 - INFO - server.js loaded...
-24.9.2025, 22:03:11 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:03:14 - INFO - server.js loaded...
-24.9.2025, 22:03:14 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:03:20 - INFO - server.js loaded...
-24.9.2025, 22:03:20 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:03:23 - INFO - server.js loaded...
-24.9.2025, 22:03:23 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:03:27 - INFO - server.js loaded...
-24.9.2025, 22:03:27 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:03:33 - INFO - server.js loaded...
-24.9.2025, 22:03:33 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:03:37 - INFO - server.js loaded...
-24.9.2025, 22:03:37 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:03:42 - INFO - server.js loaded...
-24.9.2025, 22:03:42 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:03:44 - INFO - server.js loaded...
-24.9.2025, 22:03:44 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:03:46 - INFO - server.js loaded...
-24.9.2025, 22:03:46 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:03:58 - INFO - server.js loaded...
-24.9.2025, 22:03:58 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:04:01 - INFO - server.js loaded...
-24.9.2025, 22:04:01 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:04:05 - INFO - server.js loaded...
-24.9.2025, 22:04:05 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:04:11 - INFO - server.js loaded...
-24.9.2025, 22:04:11 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:04:20 - INFO - server.js loaded...
-24.9.2025, 22:04:20 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:04:25 - INFO - server.js loaded...
-24.9.2025, 22:04:25 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:05:55 - INFO - server.js loaded...
-24.9.2025, 22:05:55 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:06:00 - INFO - server.js loaded...
-24.9.2025, 22:06:00 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:06:37 - INFO - server.js loaded...
-24.9.2025, 22:06:37 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:06:42 - INFO - server.js loaded...
-24.9.2025, 22:06:42 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:06:46 - INFO - server.js loaded...
-24.9.2025, 22:06:46 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:06:50 - INFO - server.js loaded...
-24.9.2025, 22:06:50 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:06:59 - INFO - server.js loaded...
-24.9.2025, 22:06:59 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:07:04 - INFO - server.js loaded...
-24.9.2025, 22:07:04 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:07:07 - INFO - server.js loaded...
-24.9.2025, 22:07:07 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:07:13 - INFO - server.js loaded...
-24.9.2025, 22:07:13 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:07:16 - INFO - server.js loaded...
-24.9.2025, 22:07:16 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:07:19 - INFO - server.js loaded...
-24.9.2025, 22:07:19 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:07:25 - INFO - server.js loaded...
-24.9.2025, 22:07:25 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:07:27 - INFO - server.js loaded...
-24.9.2025, 22:07:27 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:07:30 - INFO - server.js loaded...
-24.9.2025, 22:07:30 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:07:34 - INFO - server.js loaded...
-24.9.2025, 22:07:34 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:07:52 - INFO - server.js loaded...
-24.9.2025, 22:07:52 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:07:57 - INFO - server.js loaded...
-24.9.2025, 22:07:57 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:08:00 - INFO - server.js loaded...
-24.9.2025, 22:08:00 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:08:04 - INFO - server.js loaded...
-24.9.2025, 22:08:04 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:08:11 - INFO - server.js loaded...
-24.9.2025, 22:08:11 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:08:13 - INFO - server.js loaded...
-24.9.2025, 22:08:13 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:08:24 - INFO - server.js loaded...
-24.9.2025, 22:08:24 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:08:27 - INFO - server.js loaded...
-24.9.2025, 22:08:27 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:08:35 - INFO - server.js loaded...
-24.9.2025, 22:08:35 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:08:53 - INFO - server.js loaded...
-24.9.2025, 22:08:53 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:08:57 - INFO - server.js loaded...
-24.9.2025, 22:08:57 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:05 - INFO - server.js loaded...
-24.9.2025, 22:09:05 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:08 - INFO - server.js loaded...
-24.9.2025, 22:09:08 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:12 - INFO - server.js loaded...
-24.9.2025, 22:09:12 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:14 - INFO - server.js loaded...
-24.9.2025, 22:09:14 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:16 - INFO - server.js loaded...
-24.9.2025, 22:09:16 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:22 - INFO - server.js loaded...
-24.9.2025, 22:09:22 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:29 - INFO - server.js loaded...
-24.9.2025, 22:09:29 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:32 - INFO - server.js loaded...
-24.9.2025, 22:09:32 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:33 - INFO - server.js loaded...
-24.9.2025, 22:09:33 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:34 - INFO - server.js loaded...
-24.9.2025, 22:09:34 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:35 - INFO - server.js loaded...
-24.9.2025, 22:09:35 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:38 - INFO - server.js loaded...
-24.9.2025, 22:09:38 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:38 - INFO - server.js loaded...
-24.9.2025, 22:09:38 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:42 - INFO - server.js loaded...
-24.9.2025, 22:09:42 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:50 - INFO - server.js loaded...
-24.9.2025, 22:09:50 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:09:55 - INFO - server.js loaded...
-24.9.2025, 22:09:55 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:00 - INFO - server.js loaded...
-24.9.2025, 22:10:00 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:03 - INFO - server.js loaded...
-24.9.2025, 22:10:03 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:06 - INFO - server.js loaded...
-24.9.2025, 22:10:06 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:10 - INFO - server.js loaded...
-24.9.2025, 22:10:10 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:13 - INFO - server.js loaded...
-24.9.2025, 22:10:13 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:14 - INFO - server.js loaded...
-24.9.2025, 22:10:14 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:16 - INFO - server.js loaded...
-24.9.2025, 22:10:16 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:18 - INFO - server.js loaded...
-24.9.2025, 22:10:18 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:25 - INFO - server.js loaded...
-24.9.2025, 22:10:25 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:29 - INFO - server.js loaded...
-24.9.2025, 22:10:29 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:33 - INFO - server.js loaded...
-24.9.2025, 22:10:33 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:38 - INFO - server.js loaded...
-24.9.2025, 22:10:38 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:44 - INFO - server.js loaded...
-24.9.2025, 22:10:44 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:48 - INFO - server.js loaded...
-24.9.2025, 22:10:48 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:53 - INFO - server.js loaded...
-24.9.2025, 22:10:53 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:57 - INFO - server.js loaded...
-24.9.2025, 22:10:57 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:10:59 - INFO - server.js loaded...
-24.9.2025, 22:10:59 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:00 - INFO - server.js loaded...
-24.9.2025, 22:11:00 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:04 - INFO - server.js loaded...
-24.9.2025, 22:11:04 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:06 - INFO - server.js loaded...
-24.9.2025, 22:11:06 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:16 - INFO - server.js loaded...
-24.9.2025, 22:11:16 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:18 - INFO - server.js loaded...
-24.9.2025, 22:11:18 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:20 - INFO - server.js loaded...
-24.9.2025, 22:11:20 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:24 - INFO - server.js loaded...
-24.9.2025, 22:11:24 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:29 - INFO - server.js loaded...
-24.9.2025, 22:11:29 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:32 - INFO - server.js loaded...
-24.9.2025, 22:11:32 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:36 - INFO - server.js loaded...
-24.9.2025, 22:11:36 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:41 - INFO - server.js loaded...
-24.9.2025, 22:11:41 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:47 - INFO - server.js loaded...
-24.9.2025, 22:11:47 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:50 - INFO - server.js loaded...
-24.9.2025, 22:11:50 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:51 - INFO - server.js loaded...
-24.9.2025, 22:11:51 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:56 - INFO - server.js loaded...
-24.9.2025, 22:11:56 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:11:59 - INFO - server.js loaded...
-24.9.2025, 22:11:59 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:12:03 - INFO - server.js loaded...
-24.9.2025, 22:12:03 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:12:08 - INFO - server.js loaded...
-24.9.2025, 22:12:08 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:12:13 - INFO - server.js loaded...
-24.9.2025, 22:12:13 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:12:16 - INFO - server.js loaded...
-24.9.2025, 22:12:16 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:12:19 - INFO - server.js loaded...
-24.9.2025, 22:12:19 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:12:23 - INFO - server.js loaded...
-24.9.2025, 22:12:23 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:12:25 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:12:25 - INFO - server.js loaded...
-24.9.2025, 22:12:28 - INFO - server.js loaded...
-24.9.2025, 22:12:28 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:12:33 - INFO - server.js loaded...
-24.9.2025, 22:12:33 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:12:36 - INFO - server.js loaded...
-24.9.2025, 22:12:36 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:12:47 - INFO - server.js loaded...
-24.9.2025, 22:12:47 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:12:56 - INFO - server.js loaded...
-24.9.2025, 22:12:56 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:01 - INFO - server.js loaded...
-24.9.2025, 22:13:01 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:02 - INFO - server.js loaded...
-24.9.2025, 22:13:02 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:06 - INFO - server.js loaded...
-24.9.2025, 22:13:06 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:09 - INFO - server.js loaded...
-24.9.2025, 22:13:09 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:13 - INFO - server.js loaded...
-24.9.2025, 22:13:13 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:18 - INFO - server.js loaded...
-24.9.2025, 22:13:18 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:22 - INFO - server.js loaded...
-24.9.2025, 22:13:22 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:28 - INFO - server.js loaded...
-24.9.2025, 22:13:28 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:32 - INFO - server.js loaded...
-24.9.2025, 22:13:32 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:35 - INFO - server.js loaded...
-24.9.2025, 22:13:35 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:40 - INFO - server.js loaded...
-24.9.2025, 22:13:40 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:43 - INFO - server.js loaded...
-24.9.2025, 22:13:43 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:47 - INFO - server.js loaded...
-24.9.2025, 22:13:47 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:49 - INFO - server.js loaded...
-24.9.2025, 22:13:49 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:54 - INFO - server.js loaded...
-24.9.2025, 22:13:54 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:57 - INFO - server.js loaded...
-24.9.2025, 22:13:57 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:59 - INFO - server.js loaded...
-24.9.2025, 22:13:59 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:13:59 - INFO - server.js loaded...
-24.9.2025, 22:13:59 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:14:03 - INFO - server.js loaded...
-24.9.2025, 22:14:03 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:14:13 - INFO - server.js loaded...
-24.9.2025, 22:14:13 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:14:15 - INFO - server.js loaded...
-24.9.2025, 22:14:15 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:14:19 - INFO - server.js loaded...
-24.9.2025, 22:14:19 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:14:23 - INFO - server.js loaded...
-24.9.2025, 22:14:23 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:14:29 - INFO - server.js loaded...
-24.9.2025, 22:14:29 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:14:43 - INFO - server.js loaded...
-24.9.2025, 22:14:43 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:14:48 - INFO - server.js loaded...
-24.9.2025, 22:14:48 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:14:51 - INFO - server.js loaded...
-24.9.2025, 22:14:51 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:15:29 - INFO - server.js loaded...
-24.9.2025, 22:15:29 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:15:36 - INFO - server.js loaded...
-24.9.2025, 22:15:36 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:15:44 - INFO - server.js loaded...
-24.9.2025, 22:15:44 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:15:53 - INFO - server.js loaded...
-24.9.2025, 22:15:53 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:15:54 - INFO - server.js loaded...
-24.9.2025, 22:15:54 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:16:00 - INFO - server.js loaded...
-24.9.2025, 22:16:00 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:16:05 - INFO - server.js loaded...
-24.9.2025, 22:16:05 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:16:08 - INFO - server.js loaded...
-24.9.2025, 22:16:08 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:16:09 - INFO - server.js loaded...
-24.9.2025, 22:16:09 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:16:11 - INFO - server.js loaded...
-24.9.2025, 22:16:11 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:16:18 - INFO - server.js loaded...
-24.9.2025, 22:16:18 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:16:26 - INFO - server.js loaded...
-24.9.2025, 22:16:26 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:16:32 - INFO - server.js loaded...
-24.9.2025, 22:16:32 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:16:37 - INFO - server.js loaded...
-24.9.2025, 22:16:37 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:16:39 - INFO - server.js loaded...
-24.9.2025, 22:16:39 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:16:45 - INFO - server.js loaded...
-24.9.2025, 22:16:45 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:16:50 - INFO - server.js loaded...
-24.9.2025, 22:16:50 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:16:52 - INFO - server.js loaded...
-24.9.2025, 22:16:52 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:16:55 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:16:55 - INFO - server.js loaded...
-24.9.2025, 22:16:58 - INFO - server.js loaded...
-24.9.2025, 22:16:58 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:17:03 - INFO - server.js loaded...
-24.9.2025, 22:17:03 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:17:10 - INFO - server.js loaded...
-24.9.2025, 22:17:10 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:17:12 - INFO - server.js loaded...
-24.9.2025, 22:17:12 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:17:15 - INFO - server.js loaded...
-24.9.2025, 22:17:15 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:17:18 - INFO - server.js loaded...
-24.9.2025, 22:17:18 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:17:21 - INFO - server.js loaded...
-24.9.2025, 22:17:21 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:17:25 - INFO - server.js loaded...
-24.9.2025, 22:17:25 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:17:27 - INFO - server.js loaded...
-24.9.2025, 22:17:27 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:17:30 - INFO - server.js loaded...
-24.9.2025, 22:17:30 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:17:36 - INFO - server.js loaded...
-24.9.2025, 22:17:36 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:17:39 - INFO - server.js loaded...
-24.9.2025, 22:17:39 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:17:45 - INFO - server.js loaded...
-24.9.2025, 22:17:45 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:17:54 - INFO - server.js loaded...
-24.9.2025, 22:17:54 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:17:56 - INFO - server.js loaded...
-24.9.2025, 22:17:56 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:18:00 - INFO - server.js loaded...
-24.9.2025, 22:18:00 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:18:08 - INFO - server.js loaded...
-24.9.2025, 22:18:08 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:18:14 - INFO - server.js loaded...
-24.9.2025, 22:18:14 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:18:18 - INFO - server.js loaded...
-24.9.2025, 22:18:18 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:18:29 - INFO - server.js loaded...
-24.9.2025, 22:18:29 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:18:32 - INFO - server.js loaded...
-24.9.2025, 22:18:32 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:18:41 - INFO - server.js loaded...
-24.9.2025, 22:18:41 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:18:45 - INFO - server.js loaded...
-24.9.2025, 22:18:45 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:18:55 - INFO - server.js loaded...
-24.9.2025, 22:18:55 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:18:57 - INFO - server.js loaded...
-24.9.2025, 22:18:57 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:19:00 - INFO - server.js loaded...
-24.9.2025, 22:19:00 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:19:04 - INFO - server.js loaded...
-24.9.2025, 22:19:04 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:19:10 - INFO - server.js loaded...
-24.9.2025, 22:19:10 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:19:14 - INFO - server.js loaded...
-24.9.2025, 22:19:14 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:19:15 - INFO - server.js loaded...
-24.9.2025, 22:19:15 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:19:31 - INFO - server.js loaded...
-24.9.2025, 22:19:31 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:19:40 - INFO - server.js loaded...
-24.9.2025, 22:19:40 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:19:48 - INFO - server.js loaded...
-24.9.2025, 22:19:48 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:19:50 - INFO - server.js loaded...
-24.9.2025, 22:19:50 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:19:56 - INFO - server.js loaded...
-24.9.2025, 22:19:56 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:20:01 - INFO - server.js loaded...
-24.9.2025, 22:20:01 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:20:03 - INFO - server.js loaded...
-24.9.2025, 22:20:03 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:20:06 - INFO - server.js loaded...
-24.9.2025, 22:20:06 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:20:12 - INFO - server.js loaded...
-24.9.2025, 22:20:12 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:20:14 - INFO - server.js loaded...
-24.9.2025, 22:20:14 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:20:17 - INFO - server.js loaded...
-24.9.2025, 22:20:17 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:20:19 - INFO - server.js loaded...
-24.9.2025, 22:20:19 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:20:26 - INFO - server.js loaded...
-24.9.2025, 22:20:26 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:20:31 - INFO - server.js loaded...
-24.9.2025, 22:20:31 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:20:33 - INFO - server.js loaded...
-24.9.2025, 22:20:33 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:21:16 - INFO - server.js loaded...
-24.9.2025, 22:21:16 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:21:26 - INFO - server.js loaded...
-24.9.2025, 22:21:26 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:21:30 - INFO - server.js loaded...
-24.9.2025, 22:21:30 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:21:34 - INFO - server.js loaded...
-24.9.2025, 22:21:35 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:21:38 - INFO - server.js loaded...
-24.9.2025, 22:21:38 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:21:45 - INFO - server.js loaded...
-24.9.2025, 22:21:45 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:21:47 - INFO - server.js loaded...
-24.9.2025, 22:21:47 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:21:50 - INFO - server.js loaded...
-24.9.2025, 22:21:50 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:21:53 - INFO - server.js loaded...
-24.9.2025, 22:21:53 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:22:01 - INFO - server.js loaded...
-24.9.2025, 22:22:01 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:22:03 - INFO - server.js loaded...
-24.9.2025, 22:22:03 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:22:05 - INFO - server.js loaded...
-24.9.2025, 22:22:05 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:22:09 - INFO - server.js loaded...
-24.9.2025, 22:22:09 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:22:13 - INFO - server.js loaded...
-24.9.2025, 22:22:13 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:22:14 - INFO - server.js loaded...
-24.9.2025, 22:22:14 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:22:18 - INFO - server.js loaded...
-24.9.2025, 22:22:18 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:22:25 - INFO - server.js loaded...
-24.9.2025, 22:22:25 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:22:30 - INFO - server.js loaded...
-24.9.2025, 22:22:30 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:22:33 - INFO - server.js loaded...
-24.9.2025, 22:22:33 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:22:38 - INFO - server.js loaded...
-24.9.2025, 22:22:38 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:22:41 - INFO - server.js loaded...
-24.9.2025, 22:22:41 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:22:45 - INFO - server.js loaded...
-24.9.2025, 22:22:45 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:22:53 - INFO - server.js loaded...
-24.9.2025, 22:22:53 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:22:58 - INFO - server.js loaded...
-24.9.2025, 22:22:58 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:23:01 - INFO - server.js loaded...
-24.9.2025, 22:23:01 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:23:05 - INFO - server.js loaded...
-24.9.2025, 22:23:05 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:23:15 - INFO - server.js loaded...
-24.9.2025, 22:23:15 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:23:20 - INFO - server.js loaded...
-24.9.2025, 22:23:20 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:23:33 - INFO - server.js loaded...
-24.9.2025, 22:23:33 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:23:35 - INFO - server.js loaded...
-24.9.2025, 22:23:35 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:23:37 - INFO - server.js loaded...
-24.9.2025, 22:23:37 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:23:50 - INFO - server.js loaded...
-24.9.2025, 22:23:50 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:23:53 - INFO - server.js loaded...
-24.9.2025, 22:23:53 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:24:08 - INFO - server.js loaded...
-24.9.2025, 22:24:08 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:24:15 - INFO - server.js loaded...
-24.9.2025, 22:24:15 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:24:23 - INFO - server.js loaded...
-24.9.2025, 22:24:23 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:24:28 - INFO - server.js loaded...
-24.9.2025, 22:24:28 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:24:31 - INFO - server.js loaded...
-24.9.2025, 22:24:31 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:24:35 - INFO - server.js loaded...
-24.9.2025, 22:24:35 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2025, 22:24:35 - INFO - server.js loaded...
-24.9.2025, 22:24:35 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 18:00:06 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 18:01:04 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 18:01:14 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 18:01:57 - DEBUG - auth.service - login with username: admin
+16.9.2025, 18:01:57 - ERROR - Failed to Login Error: Invalid username or password
+16.9.2025, 18:02:54 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 18:03:07 - DEBUG - auth.service - login with username: admin
+16.9.2025, 18:03:07 - INFO - User login:  | {"_id":"6693c0ac62157821fbb7cb3e","username":"admin","fullname":"Mister-Toy","isAdmin":true}
+16.9.2025, 18:05:28 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 18:05:56 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 18:06:12 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 18:06:19 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 18:08:02 - INFO - Req was made | /
+16.9.2025, 18:08:38 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 18:08:41 - INFO - Req was made | /
+17.9.2025, 9:37:23 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 9:43:19 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 9:43:55 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 9:44:26 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 9:44:54 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 9:44:59 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 9:45:34 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 9:45:46 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 9:46:03 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 9:46:15 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 9:46:41 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 9:46:55 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 9:47:05 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 9:48:52 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 9:59:43 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:00:15 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:00:43 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:01:56 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:02:42 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:02:45 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:03:28 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:03:33 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:04:40 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:04:56 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:05:37 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:06:49 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:07:13 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:09:45 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:10:28 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:10:33 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:11:29 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:11:35 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:11:51 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:12:51 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:13:02 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:13:43 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:15:02 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:15:35 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:15:45 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:15:54 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:16:03 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:16:25 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:16:30 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:17:22 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:17:33 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:17:48 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:18:08 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:18:26 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:18:39 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:19:33 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:20:29 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:20:42 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:20:49 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:22:32 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:25:17 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:27:43 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:28:07 - INFO - Req was made | /
+17.9.2025, 10:28:15 - DEBUG - auth.service - login with username: admin
+17.9.2025, 10:28:15 - INFO - User login:  | {"_id":"6693c0ac62157821fbb7cb3e","username":"admin","fullname":"Mister-Toy","isAdmin":true}
+17.9.2025, 10:28:21 - INFO - Req was made | /
+17.9.2025, 10:30:37 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:30:40 - INFO - Req was made | /
+17.9.2025, 10:31:03 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:31:05 - INFO - Req was made | /
+17.9.2025, 10:31:46 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:33:57 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:33:59 - INFO - Req was made | /
+17.9.2025, 10:34:41 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:34:49 - INFO - Req was made | /
+17.9.2025, 10:34:49 - ERROR - cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 10:34:49 - ERROR - Cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 10:34:56 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:34:58 - INFO - Req was made | /
+17.9.2025, 10:34:58 - ERROR - cannot get reviews | MongoServerError: Invalid $project :: caused by :: Path collision at aboutToy.toyId remaining portion toyId
+17.9.2025, 10:34:58 - ERROR - Cannot get reviews | MongoServerError: Invalid $project :: caused by :: Path collision at aboutToy.toyId remaining portion toyId
+17.9.2025, 10:35:51 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:35:53 - INFO - Req was made | /
+17.9.2025, 10:36:03 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:36:04 - INFO - Req was made | /
+17.9.2025, 10:36:22 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:36:26 - INFO - Req was made | /
+17.9.2025, 10:36:26 - ERROR - cannot get reviews | ReferenceError: aboutToy is not defined
+17.9.2025, 10:36:26 - ERROR - Cannot get reviews | ReferenceError: aboutToy is not defined
+17.9.2025, 10:37:01 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:37:03 - INFO - Req was made | /
+17.9.2025, 10:38:11 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:38:14 - INFO - Req was made | /
+17.9.2025, 10:38:34 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:38:39 - INFO - Req was made | /
+17.9.2025, 10:38:39 - ERROR - cannot get reviews | ReferenceError: aboutUser is not defined
+17.9.2025, 10:38:39 - ERROR - Cannot get reviews | ReferenceError: aboutUser is not defined
+17.9.2025, 10:38:44 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:38:45 - INFO - Req was made | /
+17.9.2025, 10:39:29 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:39:30 - INFO - Req was made | /
+17.9.2025, 10:39:46 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:40:13 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:40:14 - INFO - Req was made | /
+17.9.2025, 10:40:51 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:40:53 - INFO - Req was made | /
+17.9.2025, 10:40:53 - ERROR - cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 10:40:53 - ERROR - Cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 10:41:04 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:41:07 - INFO - Req was made | /
+17.9.2025, 10:42:16 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:42:18 - INFO - Req was made | /
+17.9.2025, 10:42:48 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:42:50 - INFO - Req was made | /
+17.9.2025, 10:43:10 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:43:14 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:43:15 - INFO - Req was made | /
+17.9.2025, 10:43:45 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:43:47 - INFO - Req was made | /
+17.9.2025, 10:43:47 - ERROR - cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 10:43:47 - ERROR - Cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 10:44:09 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:44:11 - INFO - Req was made | /
+17.9.2025, 10:44:23 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:44:25 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:44:27 - INFO - Req was made | /
+17.9.2025, 10:44:35 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:44:36 - INFO - Req was made | /
+17.9.2025, 10:44:49 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:44:50 - INFO - Req was made | /
+17.9.2025, 10:45:13 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:45:14 - INFO - Req was made | /
+17.9.2025, 10:45:14 - ERROR - cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 10:45:14 - ERROR - Cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 10:45:27 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:45:28 - INFO - Req was made | /
+17.9.2025, 10:45:46 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:45:47 - INFO - Req was made | /
+17.9.2025, 10:45:48 - ERROR - cannot get reviews | ReferenceError: byUser is not defined
+17.9.2025, 10:45:48 - ERROR - Cannot get reviews | ReferenceError: byUser is not defined
+17.9.2025, 10:45:53 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:45:55 - INFO - Req was made | /
+17.9.2025, 10:46:17 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:46:19 - INFO - Req was made | /
+17.9.2025, 10:46:19 - ERROR - cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 10:46:19 - ERROR - Cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 10:46:50 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:46:51 - INFO - Req was made | /
+17.9.2025, 10:48:08 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:48:11 - INFO - Req was made | /
+17.9.2025, 10:48:38 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:48:46 - INFO - Req was made | /
+17.9.2025, 10:49:12 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:49:13 - INFO - Req was made | /
+17.9.2025, 10:49:31 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:49:33 - INFO - Req was made | /
+17.9.2025, 10:50:48 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:50:50 - INFO - Req was made | /
+17.9.2025, 10:50:50 - ERROR - cannot get reviews | TypeError: {(intermediate value)} is not a function
+17.9.2025, 10:50:50 - ERROR - Cannot get reviews | TypeError: {(intermediate value)} is not a function
+17.9.2025, 10:51:19 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:51:22 - INFO - Req was made | /
+17.9.2025, 10:51:22 - ERROR - cannot get reviews | TypeError: {(intermediate value)} is not a function
+17.9.2025, 10:51:22 - ERROR - Cannot get reviews | TypeError: {(intermediate value)} is not a function
+17.9.2025, 10:51:28 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:51:29 - INFO - Req was made | /
+17.9.2025, 10:51:29 - ERROR - cannot get reviews | MongoServerError: Each element of the 'pipeline' array must be an object
+17.9.2025, 10:51:29 - ERROR - Cannot get reviews | MongoServerError: Each element of the 'pipeline' array must be an object
+17.9.2025, 10:51:42 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:51:43 - INFO - Req was made | /
+17.9.2025, 10:51:43 - ERROR - cannot get reviews | TypeError: {(intermediate value)} is not a function
+17.9.2025, 10:51:43 - ERROR - Cannot get reviews | TypeError: {(intermediate value)} is not a function
+17.9.2025, 10:52:02 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:52:04 - INFO - Req was made | /
+17.9.2025, 10:52:04 - ERROR - cannot get reviews | TypeError: {(intermediate value)} is not a function
+17.9.2025, 10:52:04 - ERROR - Cannot get reviews | TypeError: {(intermediate value)} is not a function
+17.9.2025, 10:52:16 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:52:21 - INFO - Req was made | /
+17.9.2025, 10:52:21 - ERROR - cannot get reviews | TypeError: {(intermediate value)} is not a function
+17.9.2025, 10:52:21 - ERROR - Cannot get reviews | TypeError: {(intermediate value)} is not a function
+17.9.2025, 10:52:28 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:52:30 - INFO - Req was made | /
+17.9.2025, 10:52:30 - ERROR - cannot get reviews | MongoServerError: Each element of the 'pipeline' array must be an object
+17.9.2025, 10:52:30 - ERROR - Cannot get reviews | MongoServerError: Each element of the 'pipeline' array must be an object
+17.9.2025, 10:52:40 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:52:42 - INFO - Req was made | /
+17.9.2025, 10:52:42 - ERROR - cannot get reviews | MongoServerError: Each element of the 'pipeline' array must be an object
+17.9.2025, 10:52:42 - ERROR - Cannot get reviews | MongoServerError: Each element of the 'pipeline' array must be an object
+17.9.2025, 10:52:54 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:52:55 - INFO - Req was made | /
+17.9.2025, 10:52:55 - ERROR - cannot get reviews | TypeError: {(intermediate value)} is not a function
+17.9.2025, 10:52:55 - ERROR - Cannot get reviews | TypeError: {(intermediate value)} is not a function
+17.9.2025, 10:53:40 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:53:43 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:53:46 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:53:48 - INFO - Req was made | /
+17.9.2025, 10:55:17 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:55:48 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:55:51 - INFO - Req was made | /
+17.9.2025, 10:56:14 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:56:16 - INFO - Req was made | /
+17.9.2025, 10:56:51 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:56:54 - INFO - Req was made | /
+17.9.2025, 10:57:14 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:57:15 - INFO - Req was made | /
+17.9.2025, 10:57:25 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:57:26 - INFO - Req was made | /
+17.9.2025, 10:57:39 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 10:57:42 - INFO - Req was made | /
+17.9.2025, 10:58:35 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:04:12 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:04:14 - INFO - Req was made | /
+17.9.2025, 11:04:34 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:04:36 - INFO - Req was made | /
+17.9.2025, 11:04:42 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:04:45 - INFO - Req was made | /
+17.9.2025, 11:04:52 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:04:53 - INFO - Req was made | /
+17.9.2025, 11:32:18 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:32:28 - INFO - Req was made | /
+17.9.2025, 11:32:36 - DEBUG - auth.service - login with username: admin
+17.9.2025, 11:32:36 - INFO - User login:  | {"_id":"6693c0ac62157821fbb7cb3e","username":"admin","fullname":"Mister-Toy","isAdmin":true}
+17.9.2025, 11:32:54 - INFO - Req was made | /
+17.9.2025, 11:33:30 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:33:33 - INFO - Req was made | /
+17.9.2025, 11:34:06 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:34:08 - INFO - Req was made | /
+17.9.2025, 11:34:24 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:34:25 - INFO - Req was made | /
+17.9.2025, 11:35:39 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:35:55 - INFO - Req was made | /
+17.9.2025, 11:35:55 - ERROR - cannot get reviews | TypeError: Object.createFromHexString is not a function
+17.9.2025, 11:35:55 - ERROR - Cannot get reviews | TypeError: Object.createFromHexString is not a function
+17.9.2025, 11:36:03 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:36:06 - INFO - Req was made | /
+17.9.2025, 11:44:18 - INFO - Req was made | /
+17.9.2025, 11:44:39 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:44:41 - INFO - Req was made | /
+17.9.2025, 11:47:08 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:47:10 - INFO - Req was made | /
+17.9.2025, 11:47:56 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:47:58 - INFO - Req was made | /
+17.9.2025, 11:51:00 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:51:03 - INFO - Req was made | /
+17.9.2025, 11:51:11 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:51:12 - INFO - Req was made | /
+17.9.2025, 11:51:40 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:51:42 - INFO - Req was made | /
+17.9.2025, 11:51:50 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:51:52 - INFO - Req was made | /
+17.9.2025, 11:51:52 - ERROR - cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 11:51:52 - ERROR - Cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 11:51:55 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:52:03 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:52:04 - INFO - Req was made | /
+17.9.2025, 11:52:51 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:52:53 - INFO - Req was made | /
+17.9.2025, 11:53:14 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:53:59 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:54:01 - INFO - Req was made | /
+17.9.2025, 11:54:07 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:54:29 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:54:33 - INFO - Req was made | /
+17.9.2025, 11:55:00 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:55:07 - INFO - Req was made | /
+17.9.2025, 11:55:38 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:55:43 - INFO - Req was made | /
+17.9.2025, 11:58:12 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:58:14 - INFO - Req was made | /
+17.9.2025, 11:58:30 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:58:32 - INFO - Req was made | /
+17.9.2025, 11:58:46 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:58:47 - INFO - Req was made | /
+17.9.2025, 11:59:50 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 11:59:51 - INFO - Req was made | /
+17.9.2025, 12:01:20 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:02:21 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:02:23 - INFO - Req was made | /
+17.9.2025, 12:02:23 - ERROR - cannot get reviews | MongoServerError: Failed to optimize pipeline :: caused by :: Error parsing date string '_id'; 0: Unexpected character '_'; 1: passing a time zone identifier as part of the string is not allowed 'i'
+17.9.2025, 12:02:23 - ERROR - Cannot get reviews | MongoServerError: Failed to optimize pipeline :: caused by :: Error parsing date string '_id'; 0: Unexpected character '_'; 1: passing a time zone identifier as part of the string is not allowed 'i'
+17.9.2025, 12:02:35 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:02:37 - INFO - Req was made | /
+17.9.2025, 12:03:11 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:03:19 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:03:21 - INFO - Req was made | /
+17.9.2025, 12:03:31 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:03:33 - INFO - Req was made | /
+17.9.2025, 12:03:50 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:05:14 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:05:16 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:06:16 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:08:33 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:11:05 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:11:07 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:11:10 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:11:14 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:12:54 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:13:03 - INFO - Req was made | /
+17.9.2025, 12:14:31 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:14:35 - INFO - Req was made | /
+17.9.2025, 12:15:00 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:15:02 - INFO - Req was made | /
+17.9.2025, 12:15:23 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:15:25 - INFO - Req was made | /
+17.9.2025, 12:16:03 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:16:10 - INFO - Req was made | /
+17.9.2025, 12:16:24 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:16:29 - INFO - Req was made | /
+17.9.2025, 12:16:29 - ERROR - cannot get reviews | MongoServerError: Invalid $set :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 12:16:29 - ERROR - Cannot get reviews | MongoServerError: Invalid $set :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 12:16:34 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:16:41 - INFO - Req was made | /
+17.9.2025, 12:16:59 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:17:14 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:17:16 - INFO - Req was made | /
+17.9.2025, 12:17:38 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:18:20 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:18:22 - INFO - Req was made | /
+17.9.2025, 12:20:54 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:21:08 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:21:17 - INFO - Req was made | /
+17.9.2025, 12:21:17 - ERROR - cannot get reviews | MongoServerError: Invalid $project :: caused by :: Cannot do exclusion on field byUserId in inclusion projection
+17.9.2025, 12:21:17 - ERROR - Cannot get reviews | MongoServerError: Invalid $project :: caused by :: Cannot do exclusion on field byUserId in inclusion projection
+17.9.2025, 12:21:25 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:21:29 - INFO - Req was made | /
+17.9.2025, 12:21:46 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:21:48 - INFO - Req was made | /
+17.9.2025, 12:21:48 - ERROR - cannot get reviews | MongoServerError: Invalid $project :: caused by :: Cannot do exclusion on field byUserId in inclusion projection
+17.9.2025, 12:21:48 - ERROR - Cannot get reviews | MongoServerError: Invalid $project :: caused by :: Cannot do exclusion on field byUserId in inclusion projection
+17.9.2025, 12:22:44 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:22:48 - INFO - Req was made | /
+17.9.2025, 12:22:48 - ERROR - cannot get reviews | MongoServerError: Invalid $project :: caused by :: Cannot do exclusion on field byUserId in inclusion projection
+17.9.2025, 12:22:48 - ERROR - Cannot get reviews | MongoServerError: Invalid $project :: caused by :: Cannot do exclusion on field byUserId in inclusion projection
+17.9.2025, 12:23:52 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:23:53 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:23:54 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:23:59 - INFO - Req was made | /
+17.9.2025, 12:25:47 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:26:43 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:26:45 - INFO - Req was made | /
+17.9.2025, 12:26:45 - ERROR - cannot get reviews | MongoServerError: Invalid $unset :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 12:26:45 - ERROR - Cannot get reviews | MongoServerError: Invalid $unset :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 12:26:58 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:27:01 - INFO - Req was made | /
+17.9.2025, 12:27:01 - ERROR - cannot get reviews | MongoServerError: Invalid $unset :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 12:27:01 - ERROR - Cannot get reviews | MongoServerError: Invalid $unset :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 12:27:04 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:27:06 - INFO - Req was made | /
+17.9.2025, 12:30:15 - INFO - Req was made | /
+17.9.2025, 12:30:42 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:30:46 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:30:48 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:30:50 - INFO - Req was made | /
+17.9.2025, 12:34:44 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:34:49 - INFO - Req was made | /
+17.9.2025, 12:34:59 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:35:39 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:35:41 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:35:43 - INFO - Req was made | /
+17.9.2025, 12:39:42 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:39:44 - INFO - Req was made | /
+17.9.2025, 12:41:43 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:41:45 - INFO - Req was made | /
+17.9.2025, 12:43:09 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:43:11 - INFO - Req was made | /
+17.9.2025, 12:43:29 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:43:37 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:43:39 - INFO - Req was made | /
+17.9.2025, 12:43:53 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:43:54 - INFO - Req was made | /
+17.9.2025, 12:47:11 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:47:14 - INFO - Req was made | /
+17.9.2025, 12:47:14 - ERROR - cannot get reviews | MongoServerError: Unrecognized pipeline stage name: '$arrayElemAt'
+17.9.2025, 12:47:14 - ERROR - Cannot get reviews | MongoServerError: Unrecognized pipeline stage name: '$arrayElemAt'
+17.9.2025, 12:48:00 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:48:31 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:48:34 - INFO - Req was made | /
+17.9.2025, 12:50:21 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:50:26 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:51:00 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:51:01 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:51:05 - INFO - Req was made | /
+17.9.2025, 12:52:14 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:52:18 - INFO - Req was made | /
+17.9.2025, 12:52:51 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:53:03 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:53:05 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:53:06 - INFO - Req was made | /
+17.9.2025, 12:53:42 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:53:52 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:53:54 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:53:56 - INFO - Req was made | /
+17.9.2025, 12:55:02 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:55:05 - INFO - Req was made | /
+17.9.2025, 12:55:46 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:55:48 - INFO - Req was made | /
+17.9.2025, 12:56:02 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:56:03 - INFO - Req was made | /
+17.9.2025, 12:56:11 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 12:56:14 - INFO - Req was made | /
+17.9.2025, 13:06:54 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:07:00 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:07:02 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:07:04 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:07:06 - INFO - Req was made | /
+17.9.2025, 13:07:57 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:07:59 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:08:05 - INFO - Req was made | /
+17.9.2025, 13:11:25 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:11:31 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:11:34 - INFO - Req was made | /
+17.9.2025, 13:12:02 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:12:04 - INFO - Req was made | /
+17.9.2025, 13:12:04 - ERROR - cannot get reviews | MongoServerError: path option to $unwind stage should be prefixed with a '$': aboutToy
+17.9.2025, 13:12:04 - ERROR - Cannot get reviews | MongoServerError: path option to $unwind stage should be prefixed with a '$': aboutToy
+17.9.2025, 13:12:15 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:12:16 - INFO - Req was made | /
+17.9.2025, 13:12:46 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:12:49 - INFO - Req was made | /
+17.9.2025, 13:13:57 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:13:59 - INFO - Req was made | /
+17.9.2025, 13:14:09 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:14:12 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:14:21 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:14:26 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:14:28 - INFO - Req was made | /
+17.9.2025, 13:15:10 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:15:12 - INFO - Req was made | /
+17.9.2025, 13:15:26 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:15:27 - INFO - Req was made | /
+17.9.2025, 13:15:56 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:15:59 - INFO - Req was made | /
+17.9.2025, 13:16:14 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:16:15 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:16:17 - INFO - Req was made | /
+17.9.2025, 13:20:32 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:20:34 - INFO - Req was made | /
+17.9.2025, 13:20:34 - ERROR - Cannot get reviews | ReferenceError: acc is not defined
+17.9.2025, 13:20:34 - ERROR - cannot get reviews | ReferenceError: acc is not defined
+17.9.2025, 13:20:45 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:20:46 - INFO - Req was made | /
+17.9.2025, 13:21:07 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:21:09 - INFO - Req was made | /
+17.9.2025, 13:21:34 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:21:42 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:27:49 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:27:53 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:28:00 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:28:03 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:32:48 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:32:51 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 13:32:54 - INFO - Req was made | /
+17.9.2025, 15:15:27 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 15:16:03 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 15:16:18 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 15:16:21 - INFO - Req was made | /
+17.9.2025, 15:17:19 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 15:17:22 - INFO - Req was made | /
+17.9.2025, 15:20:19 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:21:30 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:21:36 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:21:43 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:21:49 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:22:34 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:22:42 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:24:01 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:24:05 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:24:56 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:25:13 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:25:25 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:25:29 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:25:34 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:25:37 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:25:50 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:25:56 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:26:54 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:27:00 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:27:09 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:28:19 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:30:03 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:30:09 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:30:12 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:30:34 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:30:47 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:30:52 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:31:11 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:31:16 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:31:28 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:33:11 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:34:36 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:36:12 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:36:59 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:37:10 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:37:41 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:38:25 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:44:04 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:46:33 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:46:40 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:47:16 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:47:37 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:47:40 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:47:46 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:48:26 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:48:50 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:48:52 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:48:57 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:49:18 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:49:42 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:49:47 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:50:01 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:53:34 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:54:28 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:55:12 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:56:50 - ERROR - cannot find toys | MongoServerError: $all needs an array
+17.9.2025, 15:56:50 - ERROR - Cannot get toys | MongoServerError: $all needs an array
+17.9.2025, 15:57:27 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:57:30 - ERROR - Cannot get toys | SyntaxError: Unexpected token ''', "['Outdoor']" is not valid JSON
+17.9.2025, 15:57:55 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:57:58 - ERROR - Cannot get toys | SyntaxError: Unexpected token ''', "['Outdoor']" is not valid JSON
+17.9.2025, 15:58:21 - ERROR - cannot find toys | MongoServerError: $all needs an array
+17.9.2025, 15:58:21 - ERROR - Cannot get toys | MongoServerError: $all needs an array
+17.9.2025, 15:58:37 - ERROR - cannot find toys | MongoServerError: $all needs an array
+17.9.2025, 15:58:37 - ERROR - Cannot get toys | MongoServerError: $all needs an array
+17.9.2025, 15:58:48 - ERROR - Cannot get toys | SyntaxError: Unexpected token ''', "['Outdoor']" is not valid JSON
+17.9.2025, 15:59:10 - ERROR - Cannot get toys | SyntaxError: Unexpected token 'O', "Outdoor" is not valid JSON
+17.9.2025, 15:59:17 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 15:59:19 - ERROR - cannot find toys | MongoServerError: $all needs an array
+17.9.2025, 15:59:19 - ERROR - Cannot get toys | MongoServerError: $all needs an array
+17.9.2025, 15:59:33 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:00:03 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:00:15 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:00:26 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:00:28 - ERROR - cannot find toys | MongoServerError: $all needs an array
+17.9.2025, 16:00:28 - ERROR - Cannot get toys | MongoServerError: $all needs an array
+17.9.2025, 16:00:43 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:01:48 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:02:17 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:02:36 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:02:58 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:03:08 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:03:29 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:03:41 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:03:56 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:04:29 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:04:39 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:04:47 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:04:49 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:04:50 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:06:44 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:06:57 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:07:34 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:07:54 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:08:30 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:08:35 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:08:42 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:08:43 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:08:48 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:08:52 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:09:21 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:09:40 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:09:49 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:09:51 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:10:52 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:11:16 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:11:29 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:11:51 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:12:56 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:13:19 - INFO - Req was made | /
+17.9.2025, 16:16:11 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:16:25 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:16:28 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:16:30 - INFO - Req was made | /
+17.9.2025, 16:17:37 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:17:41 - INFO - Req was made | /
+17.9.2025, 16:18:02 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:18:18 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:19:22 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:19:52 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:19:55 - INFO - Req was made | /
+17.9.2025, 16:20:40 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:20:42 - INFO - Req was made | /
+17.9.2025, 16:21:27 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:21:29 - INFO - Req was made | /
+17.9.2025, 16:21:49 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:21:51 - INFO - Req was made | /
+17.9.2025, 16:22:00 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:22:03 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:22:05 - INFO - Req was made | /
+17.9.2025, 16:22:51 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:22:53 - INFO - Req was made | /
+17.9.2025, 16:23:35 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:23:37 - INFO - Req was made | /
+17.9.2025, 16:23:37 - ERROR - cannot get reviews | MongoServerError: path option to $unwind stage should be prefixed with a '$': byUser
+17.9.2025, 16:23:37 - ERROR - Cannot get reviews | MongoServerError: path option to $unwind stage should be prefixed with a '$': byUser
+17.9.2025, 16:23:43 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:23:44 - INFO - Req was made | /
+17.9.2025, 16:25:52 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:26:04 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:26:07 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:26:09 - INFO - Req was made | /
+17.9.2025, 16:26:09 - ERROR - cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 16:26:09 - ERROR - Cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 16:26:14 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:26:15 - INFO - Req was made | /
+17.9.2025, 16:26:15 - ERROR - cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 16:26:15 - ERROR - Cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 16:26:23 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:26:27 - INFO - Req was made | /
+17.9.2025, 16:26:27 - ERROR - cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 16:26:27 - ERROR - Cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 16:26:41 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:26:43 - INFO - Req was made | /
+17.9.2025, 16:26:43 - ERROR - cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 16:26:43 - ERROR - Cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 16:27:12 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:27:15 - INFO - Req was made | /
+17.9.2025, 16:27:15 - ERROR - cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 16:27:15 - ERROR - Cannot get reviews | MongoServerError: Invalid $project :: caused by :: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+17.9.2025, 16:28:17 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:28:19 - INFO - Req was made | /
+17.9.2025, 16:28:26 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:28:28 - INFO - Req was made | /
+17.9.2025, 16:28:40 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:28:42 - INFO - Req was made | /
+17.9.2025, 16:29:55 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 16:29:56 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:27:38 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:27:47 - DEBUG - auth.service - login with username: admin
+17.9.2025, 17:27:47 - INFO - User login:  | {"_id":"6693c0ac62157821fbb7cb3e","username":"admin","fullname":"Mister-Toy","isAdmin":true}
+17.9.2025, 17:35:51 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:37:23 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:37:37 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:37:56 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:41:34 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:41:40 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:51:44 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:53:14 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:55:36 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:56:48 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:57:23 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:57:39 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:57:41 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:58:27 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:58:34 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 17:58:41 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:09:46 - INFO - Req was made | /
+17.9.2025, 18:11:30 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:11:31 - INFO - Req was made | /
+17.9.2025, 18:11:53 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:12:01 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:12:16 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:13:26 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:13:34 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:13:37 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:13:39 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:13:43 - INFO - Req was made | /
+17.9.2025, 18:18:43 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:18:46 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:19:44 - INFO - Req was made | /
+17.9.2025, 18:19:57 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:19:58 - INFO - Req was made | /
+17.9.2025, 18:20:03 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:21:07 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:21:11 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:21:24 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:22:07 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:22:10 - INFO - Req was made | /
+17.9.2025, 18:23:32 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:23:34 - INFO - Req was made | /
+17.9.2025, 18:23:39 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:23:41 - INFO - Req was made | /
+17.9.2025, 18:25:08 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:25:10 - INFO - Req was made | /
+17.9.2025, 18:26:21 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:27:04 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:27:06 - INFO - Req was made | /
+17.9.2025, 18:27:11 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:27:12 - INFO - Req was made | /
+17.9.2025, 18:27:17 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:27:21 - INFO - Req was made | /
+17.9.2025, 18:27:27 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:27:29 - INFO - Req was made | /
+17.9.2025, 18:28:24 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:28:30 - INFO - Req was made | /
+17.9.2025, 18:28:36 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:29:21 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:29:32 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:29:54 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:30:05 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:30:16 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:30:33 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:30:46 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:30:51 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:30:56 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:31:03 - INFO - Req was made | /
+17.9.2025, 18:31:33 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:31:34 - INFO - Req was made | /
+17.9.2025, 18:31:42 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:31:43 - INFO - Req was made | /
+17.9.2025, 18:32:14 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:32:21 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:32:29 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:32:56 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:33:11 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:33:19 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:33:27 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:33:33 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:33:35 - INFO - Req was made | /
+17.9.2025, 18:33:59 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:34:01 - INFO - Req was made | /
+17.9.2025, 18:35:01 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:35:08 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:35:10 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:35:12 - INFO - Req was made | /
+17.9.2025, 18:35:31 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:35:34 - INFO - Req was made | /
+17.9.2025, 18:37:55 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:37:59 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:38:01 - INFO - Req was made | /
+17.9.2025, 18:38:16 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:38:17 - INFO - Req was made | /
+17.9.2025, 18:39:14 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:39:17 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:39:19 - INFO - Req was made | /
+17.9.2025, 18:39:55 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:39:57 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:39:58 - INFO - Req was made | /
+17.9.2025, 18:43:30 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:46:06 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:46:09 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:46:11 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:48:06 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:48:13 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:48:43 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:49:12 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:49:44 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:49:51 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:49:52 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:50:14 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:52:13 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:52:14 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:52:17 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:58:48 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:58:57 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:59:15 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:59:39 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:59:40 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:59:45 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 18:59:58 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:00:22 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:00:53 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:01:04 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:01:21 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:01:34 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:01:48 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:02:05 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:04:39 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:05:08 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:05:16 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:05:33 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:07:49 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:09:29 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:09:47 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:10:02 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:10:06 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:10:15 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:10:19 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:10:23 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:10:25 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:14:50 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:14:55 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:15:11 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:15:13 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:15:24 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:15:33 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:15:44 - INFO - Req was made | /
+17.9.2025, 19:16:02 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:16:07 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:16:09 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:16:12 - INFO - Req was made | /
+17.9.2025, 19:16:16 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:16:20 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:16:28 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:16:29 - INFO - Req was made | /
+17.9.2025, 19:16:33 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:16:35 - INFO - Req was made | /
+17.9.2025, 19:16:47 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:16:53 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:17:05 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:17:08 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:17:25 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:17:27 - INFO - Req was made | /
+17.9.2025, 19:17:38 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:17:40 - INFO - Req was made | /
+17.9.2025, 19:18:06 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:18:15 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:18:31 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:18:33 - INFO - Req was made | /
+17.9.2025, 19:18:39 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:18:41 - INFO - Req was made | /
+17.9.2025, 19:18:54 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:18:56 - INFO - Req was made | /
+17.9.2025, 19:19:11 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:19:25 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:19:28 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:19:30 - INFO - Req was made | /
+17.9.2025, 19:19:43 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:20:10 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:20:37 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:20:41 - INFO - Req was made | /
+17.9.2025, 19:20:41 - ERROR - Cannot get reviews | MongoServerError: $lookup argument 'pipeLine' must be a string, found pipeLine: [ { $set: { toyId: "$_id" } } ]: array
+17.9.2025, 19:20:51 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:20:53 - INFO - Req was made | /
+17.9.2025, 19:21:13 - INFO - Server listening on port http://localhost:3030/
+17.9.2025, 19:21:15 - INFO - Req was made | /
+8.10.2025, 21:37:09 - INFO - Server listening on port http://localhost:3030/
+8.10.2025, 21:37:55 - INFO - Server listening on port http://localhost:3030/
+8.10.2025, 21:43:57 - INFO - Server listening on port http://localhost:3030/
+8.10.2025, 21:44:57 - INFO - Server listening on port http://localhost:3030/
+8.10.2025, 21:46:19 - INFO - Server listening on port http://localhost:3030/
+8.10.2025, 21:46:27 - INFO - Server listening on port http://localhost:3030/
+8.10.2025, 21:46:39 - INFO - Server listening on port http://localhost:3030/
+8.10.2025, 21:46:48 - INFO - Req was made | /

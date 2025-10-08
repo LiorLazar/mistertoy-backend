@@ -15,19 +15,19 @@ export const toyService = {
     removeMsg,
 }
 
-async function query(filterBy = {}) {
+async function query(filterBy = {}, isReviews) {
+    const limitSize = isReviews ? Infinity : PAGE_SIZE
+
     try {
         const { filterCriteria, sortCriteria, skip } = _buildCriteria(filterBy)
-        console.log(filterCriteria)
-        console.log(sortCriteria)
-
         const collection = await dbService.getCollection('toy')
-        const prmTotalCount = collection.countDocuments(filterCriteria)
-
-        const prmFilteredToys = collection
-            .find(filterCriteria, { sort: sortCriteria, skip, limit: PAGE_SIZE }).toArray()
-
-        const [totalCount, filteredToys] = await Promise.all([prmTotalCount, prmFilteredToys])
+        const totalCount = await collection.countDocuments(filterCriteria)
+        const filteredToys = await collection
+            .find(filterCriteria)
+            .sort(sortCriteria)
+            .skip(skip)
+            .limit(limitSize)
+            .toArray()
         const maxPage = Math.ceil(totalCount / PAGE_SIZE)
         return { toys: filteredToys, maxPage }
     } catch (error) {
@@ -38,19 +38,11 @@ async function query(filterBy = {}) {
 
 async function getById(toyId) {
     try {
-        if (!toyId) {
-            throw new Error('Toy ID is required')
-        }
-
-        if (!ObjectId.isValid(toyId)) {
-            throw new Error('Invalid toy ID format')
-        }
-
         const collection = await dbService.getCollection('toy')
-        const toy = await collection.findOne({ _id: ObjectId.createFromHexString(toyId) })
+        const toy = collection.findOne({ _id: ObjectId.createFromHexString(toyId) })
         return toy
     } catch (error) {
-        loggerService.error(`While finding toy ${toyId}`, error)
+        loggerService.error(`while finding toy ${toyId}`, error)
         throw error
     }
 }
@@ -60,7 +52,7 @@ async function remove(toyId) {
         const collection = await dbService.getCollection('toy')
         await collection.deleteOne({ _id: ObjectId.createFromHexString(toyId) })
     } catch (error) {
-        loggerService.error(`Cannot Remove toy ${toyId}`, error)
+        loggerService.error(`cannot remove toy ${toyId}`, error)
         throw error
     }
 }
@@ -79,13 +71,14 @@ async function add(toy) {
 }
 
 async function update(toy) {
+    const { name, price, labels } = toy
+    const toyToUpdate = {
+        name,
+        price,
+        labels,
+    }
+
     try {
-        const { name, price, labels } = toy
-        const toyToUpdate = {
-            name,
-            price,
-            labels,
-        }
         const collection = await dbService.getCollection('toy')
         await collection.updateOne(
             { _id: ObjectId.createFromHexString(toy._id) },
@@ -99,18 +92,16 @@ async function update(toy) {
 }
 
 async function addMsg(toyId, msg) {
-    msg.id = utilService.makeId()
-
     try {
+        msg.id = utilService.makeId()
         const collection = await dbService.getCollection('toy')
-
         await collection.updateOne(
             { _id: ObjectId.createFromHexString(toyId) },
             { $push: { msgs: msg } }
         )
         return msg
     } catch (error) {
-        loggerService.error(`Cannot add message to toy ${toyId}`, error)
+        loggerService.error(`cannot add message to toy ${toyId}`, error)
         throw error
     }
 }
@@ -124,14 +115,13 @@ async function removeMsg(toyId, msgId) {
         )
         return msgId
     } catch (error) {
-        loggerService.error(`Cannot remove message from toy ${toyId}`, error)
+        loggerService.error(`cannot remove message from toy ${toyId}`, error)
         throw error
     }
 }
 
 function _buildCriteria(filterBy) {
     const filterCriteria = {}
-
     if (filterBy.txt) {
         filterCriteria.name = { $regex: filterBy.txt, $options: 'i' }
     }
@@ -141,15 +131,12 @@ function _buildCriteria(filterBy) {
     if (filterBy.labels && filterBy.labels.length) {
         filterCriteria.labels = { $all: filterBy.labels }
     }
-
     const sortCriteria = {}
-
     const sortBy = filterBy.sortBy
     if (sortBy.type) {
         const sortDirection = +sortBy.sortDir
         sortCriteria[sortBy.type] = sortDirection
     } else sortCriteria.createdAt = -1
-
     const skip = filterBy.pageIdx !== undefined ? filterBy.pageIdx * PAGE_SIZE : 0
     return { filterCriteria, sortCriteria, skip }
 }

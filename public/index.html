@@ -1,17 +1,21 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="data:image/png;base64,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"
+    />
+    <title>Mister-Toy</title>
+    <script type="module" crossorigin src="/assets/index-d0c7d99d.js"></script>
+    <link rel="stylesheet" href="/assets/index-9e5d27f7.css">
+  </head>
 
-<head>
-  <meta charset="UTF-8" />
-  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>mister-toy</title>
-  <script type="module" crossorigin src="/assets/index-BMxuh87E.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/index-DFRj3Q4M.css">
-</head>
-
-<body>
-  <div id="root"></div>
-</body>
-
+  <body>
+    <div id="root"></div>
+    
+  </body>
 </html>

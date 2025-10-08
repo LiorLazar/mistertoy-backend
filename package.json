@@ -1,40 +1,19 @@
 {
-  "name": "mistertoy-backend",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js",
-    "server:dev": "nodemon server.js",
-    "server:prod": "set NODE_ENV=production&node server.js",
-    "server:prod:mac": "export NODE_ENV=production && node server.js"
+    "server:dev": "nodemon --env-file=.env server.js",
+    "server:prod": "set NODE_ENV=production&&node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LiorLazar/mistertoy-backend.git"
-  },
-  "keywords": [],
-  "author": "Lior Lazar",
-  "license": "ISC",
   "type": "module",
-  "bugs": {
-    "url": "https://github.com/LiorLazar/mistertoy-backend/issues"
-  },
-  "homepage": "https://github.com/LiorLazar/mistertoy-backend#readme",
   "dependencies": {
-    "async_hooks": "^1.0.0",
-    "bcrypt": "^6.0.0",
-    "cookie-parser": "^1.4.7",
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "cryptr": "^6.3.0",
-    "express": "^5.1.0",
-    "follow-redirects": "^1.15.11",
-    "fs": "^0.0.1-security",
-    "mongodb": "^6.20.0",
-    "socket.io": "^4.8.1"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.10"
+    "express": "^4.18.2",
+    "mongodb": "^6.8.0"
   }
 }
+

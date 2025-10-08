@@ -1,0 +1,270 @@
+[{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae7864a"
+  },
+  "name": "Talking Doll",
+  "price": 123,
+  "labels": [
+    "Doll",
+    "Battery Powered",
+    "Baby"
+  ],
+  "createdAt": {
+    "$numberLong": "1631031801011"
+  },
+  "inStock": false,
+  "msgs": []
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae7864b"
+  },
+  "name": "Wooden Puzzle Set",
+  "price": 45,
+  "labels": [
+    "Puzzle",
+    "Outdoor"
+  ],
+  "createdAt": {
+    "$numberLong": "1631032801011"
+  },
+  "inStock": true,
+  "msgs": []
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae7864c"
+  },
+  "name": "Remote Control Car",
+  "price": 79,
+  "labels": [
+    "On wheels",
+    "Battery Powered",
+    "Outdoor"
+  ],
+  "createdAt": {
+    "$numberLong": "1631033801011"
+  },
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae7864d"
+  },
+  "name": "Colorful Building Blocks",
+  "price": 30,
+  "labels": [
+    "Baby",
+    "Box game"
+  ],
+  "createdAt": {
+    "$numberLong": "1631034801011"
+  },
+  "inStock": false,
+  "msgs": [
+    {
+      "txt": "asd",
+      "by": {
+        "_id": "6723bc1e4bdd83f431f39d6c",
+        "fullname": "asd"
+      },
+      "id": "afLni"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae7864e"
+  },
+  "name": "Artistic Paint Set",
+  "price": 50,
+  "labels": [
+    "Art"
+  ],
+  "createdAt": {
+    "$numberLong": "1631035801011"
+  },
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae7864f"
+  },
+  "name": "Dancing Robot",
+  "price": 65,
+  "labels": [
+    "Battery Powered"
+  ],
+  "createdAt": {
+    "$numberLong": "1631036801011"
+  },
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae78650"
+  },
+  "name": "Miniature Train Set",
+  "price": 40,
+  "labels": [
+    "On wheels",
+    "Box game"
+  ],
+  "createdAt": {
+    "$numberLong": "1631037801011"
+  },
+  "inStock": false
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae78651"
+  },
+  "name": "Soft Plush Teddy Bear",
+  "price": 20,
+  "labels": [
+    "Baby"
+  ],
+  "createdAt": {
+    "$numberLong": "1631038801011"
+  },
+  "inStock": true,
+  "msgs": [
+    {
+      "txt": "asd",
+      "by": {
+        "_id": "6693c0ac62157821fbb7cb3e",
+        "fullname": "Mister-Toy"
+      },
+      "id": "UlENNC"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae78652"
+  },
+  "name": "3D Jigsaw Puzzle",
+  "price": 35,
+  "labels": [
+    "Puzzle"
+  ],
+  "createdAt": {
+    "$numberLong": "1631039801011"
+  },
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae78653"
+  },
+  "name": "Remote Control Helicopter",
+  "price": 95,
+  "labels": [
+    "Battery Powered",
+    "Outdoor"
+  ],
+  "createdAt": {
+    "$numberLong": "1631040801011"
+  },
+  "inStock": false
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae78654"
+  },
+  "name": "Educational Alphabet Blocks",
+  "price": 25,
+  "labels": [
+    "Baby"
+  ],
+  "createdAt": {
+    "$numberLong": "1631041801011"
+  },
+  "inStock": false
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae78655"
+  },
+  "name": "Canvas Painting Kit",
+  "price": 55,
+  "labels": [
+    "Art"
+  ],
+  "createdAt": {
+    "$numberLong": "1631042801011"
+  },
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae78656"
+  },
+  "name": "Wooden Play Kitchen",
+  "price": 75,
+  "labels": [
+    "Baby"
+  ],
+  "createdAt": {
+    "$numberLong": "1631043801011"
+  },
+  "inStock": true
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae78657"
+  },
+  "name": "Racing Car Set",
+  "price": 70,
+  "labels": [
+    "On wheels"
+  ],
+  "createdAt": {
+    "$numberLong": "1631044801011"
+  },
+  "inStock": false
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae78658"
+  },
+  "name": "Glow-in-the-Dark Stars",
+  "price": 15,
+  "labels": [
+    "Art"
+  ],
+  "createdAt": {
+    "$numberLong": "1631045801011"
+  },
+  "inStock": true,
+  "msgs": []
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae78659"
+  },
+  "name": "Electronic Drum Kit",
+  "price": 85,
+  "labels": [
+    "Battery Powered"
+  ],
+  "createdAt": {
+    "$numberLong": "1631046801011"
+  },
+  "inStock": false
+},
+{
+  "_id": {
+    "$oid": "668fba5ca1e5df1b7ae7865a"
+  },
+  "name": "Outdoor Playhouse",
+  "price": 120,
+  "labels": [
+    "Outdoor"
+  ],
+  "createdAt": {
+    "$numberLong": "1631047801011"
+  },
+  "inStock": true,
+  "msgs": []
+}]
